@@ -1,0 +1,39 @@
+name: Update Baby News Daily
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repoyu Çek
+        uses: actions/checkout@v4
+
+      - name: Node.js Kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Bağımlılıkları Yükle
+        run: npm install
+
+      - name: Haberleri Çek ve JSON Oluştur
+        run: npm start
+
+      - name: Fırsatları Çek ve JSON Oluştur
+        run: node update-deals.js
+
+      - name: Güncellenen JSON'ları GitHub'a Yükle (Commit)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add haberler.json alisveris.json
+          git commit -m "Otomatik Güncelleme: Günlük haberler ve fırsatlar çekildi" || echo "Değişiklik yok"
+          git push
