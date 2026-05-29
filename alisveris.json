@@ -1,50 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "6ppgdv2ufyqb0wvr0c5nid",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Hepsiburada",
-            "price": "515 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "id": "yoys55rfbo3coowdeltij",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "235 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "c9c5v53qrt8we3gdy2ode",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "id": "jwfodtju8vek1jt75ov1ye",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "e-bebek",
-            "price": "856 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🌡️",
+            "price": "423 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "48nbpsldnfm0l9q85yszx7s",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "6144 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "4jr3tj7fne540yfwglzs9v",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "e-bebek",
+            "price": "511 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🤱",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "q4kca2uwe1d02cdw6k92saw",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Hepsiburada",
-            "price": "440 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "tibaybko2ysws9z7pi3059",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Joker",
-            "price": "362 TL",
-            "discountBadge": "Günün Fırsatı",
+            "id": "d3l5q4wlzwng4sjkixv4go",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "92 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🍼",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "4bb73jj9vzzz43kjvbipg",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Amazon",
+            "price": "1284 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🌡️",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
