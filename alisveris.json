@@ -1,40 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "i4kbq7qwti4ycr9m9l4s4",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "114 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "irnda9pd1c9d4j2ttpvvkj",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Trendyol",
-            "price": "4646 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "vxdrjetq2u30s5ol11qon",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "of3dc3gwa7n6kr8jysxph",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Hepsiburada",
-            "price": "360 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🪑",
+            "price": "288 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "a9olabz5kx4zokokl2fstm",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "nrkah9k456c1aa611p8uvp",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4593 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "nsrwn7k5ow1zf3txyz6ta",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "474 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "mkp747e6ryfywqubxtdwqo",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Hepsiburada",
-            "price": "154 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "price": "604 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🤱",
             "buyUrl": "https://www.hepsiburada.com"
         }
     ]
