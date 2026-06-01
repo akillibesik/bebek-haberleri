@@ -1,41 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "of3dc3gwa7n6kr8jysxph",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Hepsiburada",
-            "price": "288 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "nrkah9k456c1aa611p8uvp",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Joker",
-            "price": "4593 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "nsrwn7k5ow1zf3txyz6ta",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "cuy3akh1kvr41yjgpqo37i",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "Amazon",
-            "price": "474 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👶",
+            "price": "103 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "mkp747e6ryfywqubxtdwqo",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "604 TL",
+            "id": "snizt5tevtv5hroysfijg",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "346 TL",
             "discountBadge": "%30 İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "w9xiszy5llgmkotd5ldph",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "236 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "p1qv9t2rt4hzj491dh19ap",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4862 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
