@@ -1,41 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "cuy3akh1kvr41yjgpqo37i",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Amazon",
-            "price": "103 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🧻",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "snizt5tevtv5hroysfijg",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "s9mz7zpgoeedup01zaj4jv",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "e-bebek",
-            "price": "346 TL",
+            "price": "1163 TL",
             "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "icon": "🌡️",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "w9xiszy5llgmkotd5ldph",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "236 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "👕",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "w0inq87p559m8ge3s2free",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "646 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "p1qv9t2rt4hzj491dh19ap",
+            "id": "jwfizatjjij4f9ut7hr8kb",
             "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Joker",
-            "price": "4862 TL",
-            "discountBadge": "%30 İndirim",
+            "store": "e-bebek",
+            "price": "4100 TL",
+            "discountBadge": "Sepette %20",
             "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "z29t57kdhs1uenhnmcstz",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "e-bebek",
+            "price": "306 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "tqa61uf40sejl9a820axt",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "649 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
