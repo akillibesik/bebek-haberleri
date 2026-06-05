@@ -1,40 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "jrvcht39f5wiq0qgui3qj",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "id": "s3g416g3n6buz0y7dcl1xf",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "98 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "dqgd0aq1a9kbs74y3b51k",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Trendyol",
-            "price": "861 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🌡️",
+            "price": "280 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "3mpv3pcbza6bypo9s7n5yj",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "95 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "uc7j62b7shhea3ohi9pmm",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "5776 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "bgbi08i9ads9il0hjg52su",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "gfp8c14wwty9rmt8qsg17",
+            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "e-bebek",
-            "price": "227 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
+            "price": "389 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🪑",
             "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "7h3muir9ij92oxyega3hww",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Trendyol",
+            "price": "5654 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
