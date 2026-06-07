@@ -1,41 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "r0n9hnw022lbbwih086ozh",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "7357 TL",
+            "id": "n8govhcajbs21f8s3unge1",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "99 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "oykeovadhhntwg628zm1m",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "244 TL",
             "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "d8csjia3jeg19wiuntwd7v",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Hepsiburada",
+            "price": "549 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🪑",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "dtora8lyp39bpwso6j8ngk",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "id": "rtcjj3jhpkfszvusi3ul4",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Amazon",
-            "price": "110 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
+            "price": "469 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👶",
             "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "vtz9idh4w1m2ldiuno0ohi",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "150 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "i072b5ozc996iadeddgi0o",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Trendyol",
-            "price": "4676 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
