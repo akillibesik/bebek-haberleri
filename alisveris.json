@@ -1,49 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "dmvcozo2arb7u0dftbfyxp",
+            "id": "gbyw0fs79xhgdbo6mvj30p",
             "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "597 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "ajcmx0zsyunmnrsxbth9fa",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Joker",
-            "price": "711 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧸",
+            "price": "468 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👶",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "1xox2jihhnl1t909p22043",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "6716 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "da66rl7vyf4qiywlh8jy4",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "6lrpp92p4adrsrkm1g1uz",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "e-bebek",
-            "price": "4895 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
+            "price": "274 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👕",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "k0jn87rbhkjjh9vuffriw",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Joker",
-            "price": "1245 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.joker.com"
+            "id": "mf6t8kkm8dpik34rf04828",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "321 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "dxq60gq2ci8oj2nolpbys",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "e-bebek",
+            "price": "535 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "bwn6f6u2ojo6xh8ce2al",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Trendyol",
+            "price": "376 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
