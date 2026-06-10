@@ -1,50 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "gbyw0fs79xhgdbo6mvj30p",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "468 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👶",
-            "buyUrl": "https://www.joker.com"
+            "id": "v1msbikj9bzeyad6zavjb",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "103 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "6lrpp92p4adrsrkm1g1uz",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "e-bebek",
-            "price": "274 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👕",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "pghsrzt0pnddm7nlot5kp",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Civil",
+            "price": "189 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "mf6t8kkm8dpik34rf04828",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Amazon",
-            "price": "321 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "dxq60gq2ci8oj2nolpbys",
+            "id": "5ioi99w3tjeqk71q4gq02b",
             "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "e-bebek",
-            "price": "535 TL",
-            "discountBadge": "Flaş İndirim",
+            "price": "495 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "bwn6f6u2ojo6xh8ce2al",
-            "name": "Philips Avent Antikolik Biberon 260ml",
+            "id": "n1xeq9vh0f94gqr3tgbr7",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Trendyol",
-            "price": "376 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
+            "price": "537 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🤱",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
