@@ -1,41 +1,48 @@
 {
     "firsatlar": [
         {
-            "id": "v1msbikj9bzeyad6zavjb",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "103 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "pghsrzt0pnddm7nlot5kp",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "189 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "5ioi99w3tjeqk71q4gq02b",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "6uesj7otlel9fgq9xi5zlk",
+            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "e-bebek",
-            "price": "495 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "478 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🪑",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "n1xeq9vh0f94gqr3tgbr7",
-            "name": "Lansinoh Manuel Göğüs Pompası",
+            "id": "qrru7k1bttl5u52y8ic4jd",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Hepsiburada",
+            "price": "7638 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "7vgq6pulq2lryf78trveci",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "82 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "oc5ied0xlhe6j057dy17",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "e-bebek",
+            "price": "4585 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "gst5goeiqpuv2rzxfimvuk",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Trendyol",
-            "price": "537 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🤱",
+            "price": "540 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👶",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
