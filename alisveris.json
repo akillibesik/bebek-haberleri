@@ -1,49 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "6uesj7otlel9fgq9xi5zlk",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "478 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "qrru7k1bttl5u52y8ic4jd",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "7638 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "7vgq6pulq2lryf78trveci",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "e-bebek",
-            "price": "82 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "oc5ied0xlhe6j057dy17",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "e-bebek",
-            "price": "4585 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "gst5goeiqpuv2rzxfimvuk",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "5jh0dpkpmt0t8wcfdy9v4a",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Trendyol",
-            "price": "540 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👶",
+            "price": "674 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🤱",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "90rb8jm5n9wqiuvp2hgtua",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "331 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "vx5x8vvrt5bhaogtldm0v",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Amazon",
+            "price": "625 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧸",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "5h82rxcw62rngzv3pq6hc",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "464 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
