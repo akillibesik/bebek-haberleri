@@ -1,41 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "5jh0dpkpmt0t8wcfdy9v4a",
-            "name": "Lansinoh Manuel Göğüs Pompası",
+            "id": "aujvqecz96h82du1rjunwq",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Trendyol",
-            "price": "674 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🤱",
+            "price": "186 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "90rb8jm5n9wqiuvp2hgtua",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "331 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "vx5x8vvrt5bhaogtldm0v",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Amazon",
-            "price": "625 TL",
+            "id": "s5rj6fht0hpwh3kqwhrov",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "105 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "🧸",
-            "buyUrl": "https://www.amazon.com"
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "5h82rxcw62rngzv3pq6hc",
+            "id": "j6wjxy8m86ysjfooouelj",
             "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "464 TL",
-            "discountBadge": "Sepette %15",
+            "store": "Trendyol",
+            "price": "541 TL",
+            "discountBadge": "Sepette %20",
             "icon": "👶",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "1vz4lj8zy0ujrynf4m93o",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Hepsiburada",
+            "price": "420 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
