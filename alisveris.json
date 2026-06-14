@@ -1,42 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "aujvqecz96h82du1rjunwq",
+            "id": "kmnwilmkfajydfkk7dua6",
             "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "186 TL",
-            "discountBadge": "Flaş İndirim",
+            "store": "Civil",
+            "price": "187 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🧻",
             "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "s5rj6fht0hpwh3kqwhrov",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "105 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "j6wjxy8m86ysjfooouelj",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "541 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "9aapwlurmi73xzimqmdmqq",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Amazon",
+            "price": "544 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🧸",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "1vz4lj8zy0ujrynf4m93o",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "qlr95p5cufn5nxhzyqrpms",
+            "name": "Wee Baby Burun Aspiratörü",
             "store": "Hepsiburada",
-            "price": "420 TL",
+            "price": "105 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "icon": "👃",
             "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "tj6oao9rhas1kbshng6f",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "510 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "mwdlcbgtw0m5timtsbf773",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "82 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
