@@ -1,41 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "wmlb4pj74syihbktwgpb",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "244 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "to0w7hybg5jd0ro730jrt5",
+            "id": "iau3rcpyympyynsswx451m",
             "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Hepsiburada",
-            "price": "474 TL",
-            "discountBadge": "Sepette %20",
+            "store": "Trendyol",
+            "price": "470 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "3zgnh2ymfy5rv1sosyz38",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Joker",
-            "price": "311 TL",
-            "discountBadge": "Süper Fiyat",
+            "id": "q77pta3e7emp17de0kfe",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "e-bebek",
+            "price": "599 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🤱",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "7p09zkngq3x9ye9h2neaoa",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "330 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
-            "buyUrl": "https://www.joker.com"
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "ea14y7yw2m0zz51qouqksd",
+            "id": "k29quoys76s1ymc4g1g3qg",
             "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Civil",
-            "price": "481 TL",
-            "discountBadge": "Sepette %15",
+            "store": "e-bebek",
+            "price": "354 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🪑",
-            "buyUrl": "https://www.civil.com"
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
