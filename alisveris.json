@@ -1,40 +1,38 @@
 {
     "firsatlar": [
         {
-            "id": "iau3rcpyympyynsswx451m",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Trendyol",
-            "price": "470 TL",
+            "id": "mausm821c5bun089ezrm8",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Hepsiburada",
+            "price": "6078 TL",
             "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "q77pta3e7emp17de0kfe",
+            "id": "rzroym2tue91b5q17bwgr",
             "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "e-bebek",
-            "price": "599 TL",
-            "discountBadge": "Sepette %20",
+            "store": "Hepsiburada",
+            "price": "488 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🤱",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "wej07q8jaee9abx5203kac",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "99 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👃",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "7p09zkngq3x9ye9h2neaoa",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Amazon",
-            "price": "330 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "k29quoys76s1ymc4g1g3qg",
+            "id": "c4qn9r83rt79x77hgkcuv9",
             "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "e-bebek",
-            "price": "354 TL",
-            "discountBadge": "Süper Fiyat",
+            "price": "525 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🪑",
             "buyUrl": "https://www.ebebek.com"
         }
