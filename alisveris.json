@@ -1,40 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "mausm821c5bun089ezrm8",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "6078 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "6tnogl9c8qmmtah8hmlwhe",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "339 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "rzroym2tue91b5q17bwgr",
+            "id": "pmgppe5atj89a3k3raywlj",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "86 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "ugjtxyk289m30x11fhz7hr",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "e-bebek",
+            "price": "327 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "1i6xnght83ezrh1mathnha",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "e-bebek",
+            "price": "503 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "xujmwgm5i1qzenta9yzz0b",
             "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Hepsiburada",
-            "price": "488 TL",
-            "discountBadge": "Flaş İndirim",
+            "price": "451 TL",
+            "discountBadge": "Sepette %20",
             "icon": "🤱",
             "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "wej07q8jaee9abx5203kac",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "99 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "c4qn9r83rt79x77hgkcuv9",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "525 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
