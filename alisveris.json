@@ -1,40 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "6e8ejsrh79jof5t7neumtl",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Trendyol",
-            "price": "309 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "7h6l0xshtu4i0yo2ix839",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "rzvyksmvz7xyf58aq30fm",
+            "name": "Wee Baby Burun Aspiratörü",
             "store": "e-bebek",
-            "price": "186 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "👕",
+            "price": "120 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👃",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "1ee4j16ssnx3nu5y8sii4w",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Amazon",
-            "price": "1122 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🌡️",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "3cijh9zgn59quh8xizglpc",
+            "id": "44sa0iq55f42ktaudno7c6",
             "name": "Carter's Organik Pamuk Tulum",
             "store": "Trendyol",
-            "price": "387 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "price": "432 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "👶",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "xll1ornx9olurb56aebimt",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "93 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "g8ibl2jzpd9na6kinb6gy",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "e-bebek",
+            "price": "392 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
