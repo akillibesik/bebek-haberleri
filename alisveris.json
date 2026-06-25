@@ -1,52 +1,43 @@
 {
     "firsatlar": [
         {
-            "id": "xxefb84g1ydzkzx0db5ztf",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "e-bebek",
-            "price": "182 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "y5vvez8j261dc762cj7dl",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "4k6w5c2c3q7v1bi9cxd91",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Hepsiburada",
-            "price": "463 TL",
+            "price": "260 TL",
             "discountBadge": "%30 İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "d85h4t9zbocwqg7bs08dkh",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "e-bebek",
-            "price": "4593 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "omk5cgytscitpi8q72ivy",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "id": "8ue5qohc69mdvqn249vjbk",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Civil",
-            "price": "70 TL",
+            "price": "146 TL",
             "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "4czgojz9xxtcse2xia8v6l",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "282 TL",
-            "discountBadge": "Sepette %20",
+            "id": "gjz1ecdowqw1ak6wcdef7u",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Trendyol",
+            "price": "385 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "lvzofyehroukif86u3xja",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Joker",
+            "price": "305 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
