@@ -1,43 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "4k6w5c2c3q7v1bi9cxd91",
+            "id": "d7rpjoc9pds6omzplybi3",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "249 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "m30p6ipaya7ygujbfcpqa",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "476 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🪑",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "3nudpj35pxsxjfsbuvfakl",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "147 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👃",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "2ft87ms4nlpfzq21y1sx9",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "e-bebek",
+            "price": "116 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧻",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "mee2xim02rtxmnq3knt59",
             "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Hepsiburada",
-            "price": "260 TL",
+            "price": "319 TL",
             "discountBadge": "%30 İndirim",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "8ue5qohc69mdvqn249vjbk",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "146 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "gjz1ecdowqw1ak6wcdef7u",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Trendyol",
-            "price": "385 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "lvzofyehroukif86u3xja",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Joker",
-            "price": "305 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.joker.com"
         }
     ]
 }
