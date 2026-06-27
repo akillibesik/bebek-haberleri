@@ -1,50 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "d7rpjoc9pds6omzplybi3",
+            "id": "9cbwgwjngt6vjufn5t8rb",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4390 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "8pwbu5en63l1g0mfknn4vs",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Trendyol",
-            "price": "249 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "price": "312 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "👕",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "m30p6ipaya7ygujbfcpqa",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "476 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "3nudpj35pxsxjfsbuvfakl",
+            "id": "g5a538uy5uks0y2k745m1n",
             "name": "Wee Baby Burun Aspiratörü",
             "store": "e-bebek",
-            "price": "147 TL",
-            "discountBadge": "Günün Fırsatı",
+            "price": "94 TL",
+            "discountBadge": "Sepette %20",
             "icon": "👃",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "2ft87ms4nlpfzq21y1sx9",
+            "id": "7idifafvjalj6f0d6xoscf",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "e-bebek",
-            "price": "116 TL",
-            "discountBadge": "Süper Fiyat",
+            "store": "Civil",
+            "price": "100 TL",
+            "discountBadge": "Sepette %20",
             "icon": "🧻",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "mee2xim02rtxmnq3knt59",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Hepsiburada",
-            "price": "319 TL",
-            "discountBadge": "%30 İndirim",
+            "id": "eae7wmljiete3cwmkf86o9",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "103 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
