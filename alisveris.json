@@ -1,49 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "9cbwgwjngt6vjufn5t8rb",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Joker",
-            "price": "4390 TL",
-            "discountBadge": "Günün Fırsatı",
+            "id": "kgwqllvvxa0svghwc6k96",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Hepsiburada",
+            "price": "6084 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "8pwbu5en63l1g0mfknn4vs",
+            "id": "w1uhtf1uv3s6eal4xwxpzx",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "312 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👕",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "g5a538uy5uks0y2k745m1n",
-            "name": "Wee Baby Burun Aspiratörü",
             "store": "e-bebek",
-            "price": "94 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "👃",
+            "price": "270 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👕",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "7idifafvjalj6f0d6xoscf",
+            "id": "mtfbupe2l5fjew7xi4cp2",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "100 TL",
-            "discountBadge": "Sepette %20",
+            "store": "Joker",
+            "price": "125 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "50vilq543496thgltq4egs",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "109 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "eae7wmljiete3cwmkf86o9",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "103 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
+            "id": "kxmuuokr3qpbqdpp5fq7",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "572 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
