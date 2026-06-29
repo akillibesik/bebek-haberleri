@@ -1,48 +1,39 @@
 {
     "firsatlar": [
         {
-            "id": "kgwqllvvxa0svghwc6k96",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "6084 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "w1uhtf1uv3s6eal4xwxpzx",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "e-bebek",
-            "price": "270 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "mtfbupe2l5fjew7xi4cp2",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "id": "c6gyfvxcsacfghn1ajk85",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "Joker",
-            "price": "125 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
+            "price": "866 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🌡️",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "50vilq543496thgltq4egs",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Civil",
-            "price": "109 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.civil.com"
+            "id": "l0lj5kyyrhof0pzz4gttf",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Joker",
+            "price": "5949 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "kxmuuokr3qpbqdpp5fq7",
-            "name": "Lansinoh Manuel Göğüs Pompası",
+            "id": "q0bgveif2wfyptysb33cqf",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "122 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👃",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "ahljhjv6nwxufw0w7t8qo",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Trendyol",
-            "price": "572 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🤱",
+            "price": "283 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👕",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
