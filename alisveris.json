@@ -1,40 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "c6gyfvxcsacfghn1ajk85",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Joker",
-            "price": "866 TL",
+            "id": "2nmc6qdrx2xbfnkmyrj2j8",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "545 TL",
             "discountBadge": "%30 İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.joker.com"
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "l0lj5kyyrhof0pzz4gttf",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "5949 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "q0bgveif2wfyptysb33cqf",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "122 TL",
+            "id": "ohtvxr959npms4vmbdxfij",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Amazon",
+            "price": "290 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "ahljhjv6nwxufw0w7t8qo",
+            "id": "17vqyb3u42v0execzonpqhg",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Trendyol",
             "price": "283 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "👕",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "0yu66rxincl95pu578qs3w",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "109 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
