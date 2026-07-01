@@ -1,40 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "2nmc6qdrx2xbfnkmyrj2j8",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Amazon",
-            "price": "545 TL",
+            "id": "rgmd0z8ul1hwma9qq9ya6",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Civil",
+            "price": "202 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "5k8w11mf824jvcrj7mp3tm",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4490 TL",
             "discountBadge": "%30 İndirim",
-            "icon": "👶",
-            "buyUrl": "https://www.amazon.com"
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "ohtvxr959npms4vmbdxfij",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Amazon",
-            "price": "290 TL",
+            "id": "oeb5u36krxp8ccsy15p8gy",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Civil",
+            "price": "424 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
+            "icon": "🪑",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "17vqyb3u42v0execzonpqhg",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "283 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "0yu66rxincl95pu578qs3w",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "109 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
+            "id": "eqb3val3smu3ksyhyk2txq",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "620 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
