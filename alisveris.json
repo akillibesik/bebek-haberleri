@@ -1,50 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "wd51s3p51bknvdasib7nt",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Hepsiburada",
-            "price": "4897 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "4mb1zizdkz8r4v156vz6is",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Hepsiburada",
-            "price": "648 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🧸",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "o4lvirdrm25huh5rljl0v",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Trendyol",
-            "price": "7043 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "mdmmrxugctjct95l1xm43p",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "256 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "8rpcx9bmifm3po2fqcso8a",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "oipl8nsoplglrqdmckbeip",
+            "name": "Wee Baby Burun Aspiratörü",
             "store": "Civil",
-            "price": "516 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🪑",
+            "price": "106 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👃",
             "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "tkh9twqtxqi6mbzui76rkj",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Trendyol",
+            "price": "157 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "140cce96h0lpi92v833e6g8",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "72 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "4ocj8tnrlfg2xqfjd82gg6",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "e-bebek",
+            "price": "303 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "4nwesvyuj3nrfup253tafb",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Hepsiburada",
+            "price": "546 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
