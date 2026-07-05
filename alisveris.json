@@ -1,51 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "oipl8nsoplglrqdmckbeip",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "106 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
+            "id": "k98ldatxhddbiylqbs6f6",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Joker",
+            "price": "1162 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🌡️",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "tkh9twqtxqi6mbzui76rkj",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "f4i7crczc0fn3ksk69tgb",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Trendyol",
-            "price": "157 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "price": "4640 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🛒",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "140cce96h0lpi92v833e6g8",
+            "id": "u9snk17v6ia0rx3vldu0da",
             "name": "Bebedor Silikon Damaklı Emzik 2'li",
             "store": "e-bebek",
-            "price": "72 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "4ocj8tnrlfg2xqfjd82gg6",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "e-bebek",
-            "price": "303 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "4nwesvyuj3nrfup253tafb",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Hepsiburada",
-            "price": "546 TL",
+            "price": "91 TL",
             "discountBadge": "Flaş İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "k7i5je8fn2h0v845f7xcp4h",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Joker",
+            "price": "387 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🪑",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
