@@ -1,40 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "k98ldatxhddbiylqbs6f6",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Joker",
-            "price": "1162 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🌡️",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "f4i7crczc0fn3ksk69tgb",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "pwra38ruz8h89hhed0geu",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Trendyol",
-            "price": "4640 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🛒",
+            "price": "473 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🤱",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "u9snk17v6ia0rx3vldu0da",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "e-bebek",
-            "price": "91 TL",
-            "discountBadge": "Flaş İndirim",
+            "id": "0efjqbv2agbummlnh0w2b9s",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "247 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "k7i5je8fn2h0v845f7xcp4h",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "rrgkwnu6n3i8s3jpvqk3cj",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Joker",
-            "price": "387 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🪑",
+            "price": "537 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👶",
             "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "lzfnebxl7lz2deomeldjq",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "Civil",
+            "price": "113 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👃",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
