@@ -1,41 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "87siymafl63d8o250pncq7",
+            "id": "maeywy7tl5qf6rdkj9zh",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "260 TL",
-            "discountBadge": "Flaş İndirim",
+            "store": "e-bebek",
+            "price": "254 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "2h3qx5pz8vfgwpuqvt6eic",
-            "name": "Wee Baby Burun Aspiratörü",
+            "id": "g7k6leb0qhxnsw6t9toqd",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Hepsiburada",
-            "price": "137 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👃",
+            "price": "433 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "jdq13jlvk20aattep58ghn",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "7djev7sfhavwopp9rokf1g",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Civil",
+            "price": "169 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "7zwccqmsr8j0tj3szd6q4sf",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "Trendyol",
-            "price": "525 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "1212 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🌡️",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "g2fcwgqcc8tfqrm89gavra",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "aeuxp9r7g5msp0x5wgzs6",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "e-bebek",
-            "price": "219 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👕",
+            "price": "121 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧻",
             "buyUrl": "https://www.ebebek.com"
         }
     ]
