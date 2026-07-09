@@ -1,52 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "maeywy7tl5qf6rdkj9zh",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "ifk9vwbrgech0zd3mdsplr",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "e-bebek",
-            "price": "254 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "price": "197 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "g7k6leb0qhxnsw6t9toqd",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Hepsiburada",
-            "price": "433 TL",
+            "id": "8qaxl3zgn64nkmd424pbs",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "e-bebek",
+            "price": "297 TL",
             "discountBadge": "%30 İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "7djev7sfhavwopp9rokf1g",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "4wptf3e8i5l99pyb7a5qys",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
             "store": "Civil",
-            "price": "169 TL",
+            "price": "81 TL",
             "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "icon": "🍼",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "7zwccqmsr8j0tj3szd6q4sf",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Trendyol",
-            "price": "1212 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🌡️",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "aeuxp9r7g5msp0x5wgzs6",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "e-bebek",
-            "price": "121 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "ircja7ghgyiv7k1gbodo0h",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Hepsiburada",
+            "price": "7368 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
