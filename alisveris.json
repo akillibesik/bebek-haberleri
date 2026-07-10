@@ -1,40 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "ifk9vwbrgech0zd3mdsplr",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "e-bebek",
-            "price": "197 TL",
+            "id": "585tygfa91xszc8kklyhr",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "486 TL",
             "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "8qaxl3zgn64nkmd424pbs",
-            "name": "Philips Avent Antikolik Biberon 260ml",
+            "id": "fvx6zdre8gtwaa910n0wc",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Trendyol",
+            "price": "544 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧸",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "z09tczji2h3cb3cltu1k6",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "e-bebek",
-            "price": "297 TL",
-            "discountBadge": "%30 İndirim",
+            "price": "474 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "4wptf3e8i5l99pyb7a5qys",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Civil",
-            "price": "81 TL",
-            "discountBadge": "Süper Fiyat",
+            "id": "mztwzcji43mis8brylk1ya",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Joker",
+            "price": "366 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🍼",
-            "buyUrl": "https://www.civil.com"
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "ircja7ghgyiv7k1gbodo0h",
-            "name": "Kraft Berlin Bebek Arabası Grey",
+            "id": "e3rekhbv44cyzl5asrrsgh",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Hepsiburada",
-            "price": "7368 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🛒",
+            "price": "295 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         }
     ]
