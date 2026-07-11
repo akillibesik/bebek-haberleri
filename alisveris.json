@@ -1,51 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "585tygfa91xszc8kklyhr",
+            "id": "jz5dmy4ikpi13hnzu8nmo",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Trendyol",
+            "price": "219 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "98lag0yp6pqqicptmnlph",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Joker",
+            "price": "7274 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "u8ncuq4np9ob2p6ik1bsn5",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "110 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👃",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "7e0621kpzpdfs8hyhgvgy",
             "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Trendyol",
-            "price": "486 TL",
+            "price": "586 TL",
             "discountBadge": "Flaş İndirim",
             "icon": "🤱",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "fvx6zdre8gtwaa910n0wc",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Trendyol",
-            "price": "544 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "z09tczji2h3cb3cltu1k6",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "eonr7zhuy4gq93o72m6m4o",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
             "store": "e-bebek",
-            "price": "474 TL",
-            "discountBadge": "Flaş İndirim",
+            "price": "91 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "mztwzcji43mis8brylk1ya",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Joker",
-            "price": "366 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "e3rekhbv44cyzl5asrrsgh",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Hepsiburada",
-            "price": "295 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
