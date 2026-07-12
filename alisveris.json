@@ -1,50 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "jz5dmy4ikpi13hnzu8nmo",
+            "id": "9t2foqn5cikwvb9jcflq4",
             "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "219 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "store": "e-bebek",
+            "price": "165 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🧻",
             "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "98lag0yp6pqqicptmnlph",
+            "id": "jr0lpgq7i5i2305hhqsje",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "734 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "wijx4xo0pgej50n243b6tq",
             "name": "Kraft Berlin Bebek Arabası Grey",
             "store": "Joker",
-            "price": "7274 TL",
+            "price": "6775 TL",
             "discountBadge": "Süper Fiyat",
             "icon": "🛒",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "u8ncuq4np9ob2p6ik1bsn5",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "110 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "7e0621kpzpdfs8hyhgvgy",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Trendyol",
-            "price": "586 TL",
+            "id": "c5a7edfe9ovbc9w393e0i",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "122 TL",
             "discountBadge": "Flaş İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "eonr7zhuy4gq93o72m6m4o",
+            "id": "zr4mlts5gvfy1h1eokb5y",
             "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "e-bebek",
-            "price": "91 TL",
-            "discountBadge": "%30 İndirim",
+            "store": "Civil",
+            "price": "106 TL",
+            "discountBadge": "Sepette %20",
             "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
