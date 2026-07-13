@@ -1,49 +1,48 @@
 {
     "firsatlar": [
         {
-            "id": "9t2foqn5cikwvb9jcflq4",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "e-bebek",
-            "price": "165 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "jr0lpgq7i5i2305hhqsje",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "id": "198p6e95q2rugh770b0oi",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Hepsiburada",
-            "price": "734 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧸",
+            "price": "4989 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🛒",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "wijx4xo0pgej50n243b6tq",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "6775 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "c5a7edfe9ovbc9w393e0i",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "122 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "zr4mlts5gvfy1h1eokb5y",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "id": "99fe98ek26tudv29aror1",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Civil",
-            "price": "106 TL",
-            "discountBadge": "Sepette %20",
+            "price": "194 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "9gevndke4smdvl82akpaet",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "103 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "pm36uutdkg7benng6xnkd",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Hepsiburada",
+            "price": "6058 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "jm327j7bpvol54t4rf13l",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "124 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
             "buyUrl": "https://www.civil.com"
         }
     ]
