@@ -1,41 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "7na0fk7c70xxrghjvwq4l",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "96125pq6rnnhtpksvic5jg",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Hepsiburada",
-            "price": "331 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "price": "506 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🤱",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "2c50zwehudrmavny1gjmho",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "223 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "ddwqbp297i9ieaaxqtk36",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "328 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "fjdbfi4lvyaglhkrwacc0r",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Amazon",
-            "price": "1173 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🌡️",
-            "buyUrl": "https://www.amazon.com"
+            "id": "fgietgb59qpz1xif4xjbhl",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "e-bebek",
+            "price": "101 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "mnaitinzidrrct2hpnoaq",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Hepsiburada",
-            "price": "692 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧸",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "uy35u4ru6f89828y7ctsn9",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "387 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.joker.com"
+            "id": "sigxwsaju3g3vfn07mseqd",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Trendyol",
+            "price": "5558 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🛒",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
