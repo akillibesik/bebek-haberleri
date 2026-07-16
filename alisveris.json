@@ -1,50 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "96125pq6rnnhtpksvic5jg",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "506 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "zx4kh3dfjmoz2w1ietgkae",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Civil",
+            "price": "205 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "2c50zwehudrmavny1gjmho",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "d68l42b2rb9ajgp6bubnyn",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "Trendyol",
-            "price": "223 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👕",
+            "price": "1021 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🌡️",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "ddwqbp297i9ieaaxqtk36",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "dg3bqe2wx66bbplkubtcq",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Trendyol",
-            "price": "328 TL",
+            "price": "528 TL",
             "discountBadge": "Günün Fırsatı",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "fgietgb59qpz1xif4xjbhl",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "id": "h7st40ywbqg7671frppw9",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "e-bebek",
-            "price": "101 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
+            "price": "5010 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🛒",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "sigxwsaju3g3vfn07mseqd",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Trendyol",
-            "price": "5558 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "ltzonve0egn9czqqlcokhr",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "256 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
