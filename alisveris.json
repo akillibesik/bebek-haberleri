@@ -1,41 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "2e28ynfp67it0hzy7zdsc",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "548 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "bluscfe6q8816jeup8wysd",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Hepsiburada",
+            "price": "185 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "cofx0i5738ujokj0vbiz48",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Amazon",
-            "price": "747 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "z4izvipw1tn0pzof3x51n5",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "z7ssylb69shgelgpzkzgj7",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Trendyol",
-            "price": "424 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "618 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🤱",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "pp5x6pq2slt3xc11ot4j1t",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Civil",
-            "price": "85 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.civil.com"
+            "id": "yhdnxmwnfdjv6ajh9bpcde",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Trendyol",
+            "price": "591 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👶",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "oh6l78lsnctms9xg8r8qn",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "740 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
