@@ -1,49 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "123ca6tcysxx4rvy5ghi8",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "101 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "c9bf65stav7a2y9sp7zb5",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "133 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "a61gnujcx1ws898k1l0c7f",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Trendyol",
-            "price": "359 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "7zbdyq6f6583l7leemf2lw",
-            "name": "Lansinoh Manuel Göğüs Pompası",
+            "id": "y542ovdem09kwe850smnr",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Hepsiburada",
-            "price": "524 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🤱",
+            "price": "602 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧸",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "cw4lcyqp71h833f03lulb2",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "id": "mt08x4ezpn8wwhl223vtr",
+            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Civil",
-            "price": "87 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
+            "price": "456 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🪑",
             "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "r648pat2w9mfhs2j72wuke",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "520 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "cyzbx2vwlys7ya0ia2buwp",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Amazon",
+            "price": "112 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧻",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "0e93u6lqxqlgp1z4fuh8b9i",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Hepsiburada",
+            "price": "163 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
