@@ -1,50 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "y542ovdem09kwe850smnr",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Hepsiburada",
-            "price": "602 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🧸",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "mt08x4ezpn8wwhl223vtr",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "kvkfzcw607w8z2n05qazb",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Civil",
-            "price": "456 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🪑",
+            "price": "189 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "👕",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "r648pat2w9mfhs2j72wuke",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Amazon",
-            "price": "520 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "cyzbx2vwlys7ya0ia2buwp",
+            "id": "s6u2l11tgek3u5t91lo2t9",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "Amazon",
-            "price": "112 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "price": "117 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🧻",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "0e93u6lqxqlgp1z4fuh8b9i",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Hepsiburada",
-            "price": "163 TL",
+            "id": "nd6uap3abjh0882sp5mk33v",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "e-bebek",
+            "price": "336 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "rk3ncp9gd7jck5yocmcc",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "313 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
