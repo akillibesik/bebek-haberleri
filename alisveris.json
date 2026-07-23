@@ -1,41 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "kvkfzcw607w8z2n05qazb",
+            "id": "gg0wbn934ffe1jd5bl7qcn",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "241 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "17tdqd8un7ilu10g8ifcrf",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Joker",
+            "price": "467 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "owdz39hfdt0n2lsiu5f2ei",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "189 TL",
-            "discountBadge": "Sepette %20",
+            "store": "e-bebek",
+            "price": "216 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "👕",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "mdey10za0agxmcmfvkv3j",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "96 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧻",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "s6u2l11tgek3u5t91lo2t9",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Amazon",
-            "price": "117 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "nd6uap3abjh0882sp5mk33v",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "e-bebek",
-            "price": "336 TL",
+            "id": "jef2adjeluz8vzyxjs5yd",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Trendyol",
+            "price": "985 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "rk3ncp9gd7jck5yocmcc",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "313 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
+            "icon": "🌡️",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
