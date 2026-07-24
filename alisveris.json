@@ -1,51 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "gg0wbn934ffe1jd5bl7qcn",
+            "id": "25dpm44kzvkr77klvwse2",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "368 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "dw3vim1nz3r3un002lxwa",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "241 TL",
-            "discountBadge": "Süper Fiyat",
+            "store": "Hepsiburada",
+            "price": "268 TL",
+            "discountBadge": "Sepette %20",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "17tdqd8un7ilu10g8ifcrf",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Joker",
-            "price": "467 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "owdz39hfdt0n2lsiu5f2ei",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "e-bebek",
-            "price": "216 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "mdey10za0agxmcmfvkv3j",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "96 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "jef2adjeluz8vzyxjs5yd",
+            "id": "s6s6crgkxveg7sev6yy33f",
             "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "Trendyol",
-            "price": "985 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "price": "1274 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🌡️",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "alg6l9vkhxmpskth0lx4jq",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Trendyol",
+            "price": "392 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "n82hpcf1h7c7c8mmnd1h2",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "75 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
