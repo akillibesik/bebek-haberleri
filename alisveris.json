@@ -1,40 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "83fr91vehsyaul5b57pn",
+            "id": "wqucq5u4z2fl8ziu6rxen",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "84 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "biliuswrhxhajg5e161h46",
             "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Joker",
-            "price": "446 TL",
-            "discountBadge": "Sepette %20",
+            "store": "Hepsiburada",
+            "price": "525 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "fmxwddzyxhep7y17px694s",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Joker",
-            "price": "3978 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "cl76eejsw19kui98do0ziq",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "140 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👃",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "4lermt7kdsqraz1pazub6j",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Trendyol",
-            "price": "1220 TL",
+            "id": "7scheot6u9jzsaytubykv",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "e-bebek",
+            "price": "183 TL",
             "discountBadge": "En Ucuz Fiyat",
-            "icon": "🌡️",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "uptwq6igmfnvt4egmgq5d",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Trendyol",
+            "price": "4412 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🛒",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
