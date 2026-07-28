@@ -1,40 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "4p4njedg1boibvgbeqmbz",
+            "id": "sjlq639rq77it58i8gxel",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Hepsiburada",
+            "price": "4786 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "cu6sm09zln6cunia5x3fye",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "e-bebek",
-            "price": "298 TL",
-            "discountBadge": "Sepette %20",
+            "price": "217 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "👕",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "ses6g9vd81i2no2nnazc",
-            "name": "Kraft Berlin Bebek Arabası Grey",
+            "id": "qf0ap3zjbzoyuv1mkjh4t",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Joker",
-            "price": "6449 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
+            "price": "557 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👶",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "avqv9f9oa6py1dz9bnhdlr",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "id": "ovtlv1harglo65nsqbfmq",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Trendyol",
-            "price": "1125 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🌡️",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "niwunpu6m8pdxmm49q9eg",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "96 TL",
+            "price": "208 TL",
             "discountBadge": "Sepette %20",
             "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
