@@ -1,41 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "sjlq639rq77it58i8gxel",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "q3ecmqu7u2bogmn7ba0cue",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Hepsiburada",
-            "price": "4786 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🛒",
+            "price": "467 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🤱",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "cu6sm09zln6cunia5x3fye",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "e-bebek",
-            "price": "217 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👕",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "8cjh24nhqeot6p6t5csghf",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "518 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "qf0ap3zjbzoyuv1mkjh4t",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "nnyuqqq95z8phb5lwyt2a",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Joker",
-            "price": "557 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👶",
+            "price": "636 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧸",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "ovtlv1harglo65nsqbfmq",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "208 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "rysprzgz4d22vmt2qxkyz",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Civil",
+            "price": "228 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
