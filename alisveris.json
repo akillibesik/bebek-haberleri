@@ -1,52 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "hsrjjesx560gn89gf4en3g",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Trendyol",
-            "price": "418 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "7zl5s8c0seedtifm4soida",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Trendyol",
-            "price": "627 TL",
+            "id": "lzirwr5l79fcpzs2oucg9",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Joker",
+            "price": "380 TL",
             "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "xslpgn4dtxte8jl2ydyb",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "341 TL",
-            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "612xphemp1ankpk6fvq0a",
+            "id": "ap5oxlk553l5twe5puc1xu",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "93 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "y7htv2zs8rfslrdltgl4",
             "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "e-bebek",
-            "price": "193 TL",
-            "discountBadge": "Sepette %20",
+            "store": "Civil",
+            "price": "188 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🧻",
             "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "gvzvc9utc6u1aev88gfyfq",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Amazon",
-            "price": "109 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.amazon.com"
+            "id": "mzunskasns6xok4io6io4",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "625 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "i4e8wur5uqpxae3d30pbg",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "652 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
