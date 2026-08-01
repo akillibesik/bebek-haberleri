@@ -1,50 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "lzirwr5l79fcpzs2oucg9",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Joker",
-            "price": "380 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "id": "o56c6qo5avio44dgoo522a",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "267 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
-            "buyUrl": "https://www.joker.com"
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "ap5oxlk553l5twe5puc1xu",
+            "id": "l5y45s8p0qjzo46wa2syte",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "93 TL",
-            "discountBadge": "%30 İndirim",
+            "store": "Amazon",
+            "price": "115 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "y7htv2zs8rfslrdltgl4",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "188 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
+            "id": "5rrcsjvbouec0gjn5cpap",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "e-bebek",
+            "price": "1125 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🌡️",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "mzunskasns6xok4io6io4",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "id": "pkwtatjsfk0z9esppiziz",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "e-bebek",
+            "price": "369 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "mx1gcbr59d2v997h34254",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Hepsiburada",
-            "price": "625 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🧸",
+            "price": "467 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "i4e8wur5uqpxae3d30pbg",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Trendyol",
-            "price": "652 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
