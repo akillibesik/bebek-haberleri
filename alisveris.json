@@ -1,50 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "4cqsji8juic6m7u1e6jvnv",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "e-bebek",
-            "price": "895 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🌡️",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "93fpizvougp1swydyz6pa5i",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Hepsiburada",
+            "price": "344 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "cu5i05yhi4nw4hxul23pk",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "171 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "z4dvdjvr5hqm3vazh8evm",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "416 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "i4ca5jy2qnowhbh6uj3da",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "pixy7snpbwgjtjar0i7e3",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Trendyol",
-            "price": "5108 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
+            "price": "477 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "wwvl82b14ljdtnbpmll1r",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "317 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
+            "id": "veh7c0n27dz5z3w22jzil",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Joker",
+            "price": "611 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧸",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "xg4yor7ew6ktnd558wfrmr",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "619 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
