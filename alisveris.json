@@ -1,48 +1,39 @@
 {
     "firsatlar": [
         {
-            "id": "oa2l0n3vepklfk6tdkdi5b",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Joker",
-            "price": "1029 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🌡️",
-            "buyUrl": "https://www.joker.com"
+            "id": "91jt1w0rzsum6c4uukcaq",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "541 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🪑",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "kyvqwe05j2l94loa7jvq36",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "142 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "java5o8koxn1qpyee1ms0th",
+            "id": "n1bctev80s8lpuptj2fbka",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Civil",
-            "price": "271 TL",
-            "discountBadge": "Günün Fırsatı",
+            "price": "268 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "👕",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "5v9k0r2g73psgtdv9q2grq",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Trendyol",
-            "price": "360 TL",
+            "id": "96ktrd3ac7tuvc13tmu1xq",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Hepsiburada",
+            "price": "4286 TL",
             "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "fbh5r04bvknuct1n9fguij",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "8izoi1hjfz3sndze6xq7ll",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
             "store": "e-bebek",
-            "price": "356 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🪑",
+            "price": "108 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🍼",
             "buyUrl": "https://www.ebebek.com"
         }
     ]
