@@ -1,40 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "91jt1w0rzsum6c4uukcaq",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "541 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "n1bctev80s8lpuptj2fbka",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "0kk66s4ij5a14oip8y95u3",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
             "store": "Civil",
-            "price": "268 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "👕",
+            "price": "91 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "96ktrd3ac7tuvc13tmu1xq",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "2td777iq31j00ar0i06qao9w",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "320 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "pct9iw5iur732ogdizrcb",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "Hepsiburada",
-            "price": "4286 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
+            "price": "456 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🤱",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "8izoi1hjfz3sndze6xq7ll",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "e-bebek",
-            "price": "108 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "nouv0qfa1489u5ltyblf5",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "437 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
