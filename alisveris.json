@@ -1,41 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "0kk66s4ij5a14oip8y95u3",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Civil",
-            "price": "91 TL",
+            "id": "9nmkrzmr72lvf96qgdvgkg",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Trendyol",
+            "price": "6288 TL",
             "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "buyUrl": "https://www.civil.com"
+            "icon": "🛒",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "2td777iq31j00ar0i06qao9w",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "onw0dlgy4a90knt6hwsepq",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "e-bebek",
-            "price": "320 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "price": "107 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧻",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "pct9iw5iur732ogdizrcb",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "456 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "7poz8a6a28izcyxfqmah3",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Trendyol",
+            "price": "582 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "nouv0qfa1489u5ltyblf5",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "437 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👶",
-            "buyUrl": "https://www.joker.com"
+            "id": "lz5vdnh9anc6czckejv",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "e-bebek",
+            "price": "510 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
