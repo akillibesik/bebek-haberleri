@@ -1,40 +1,48 @@
 {
     "firsatlar": [
         {
-            "id": "9nmkrzmr72lvf96qgdvgkg",
+            "id": "cy5o3hv28vg7ly94qjti8l",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "543 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "pnrll3iwhvods5texwklo",
             "name": "Kraft Berlin Bebek Arabası Grey",
             "store": "Trendyol",
-            "price": "6288 TL",
-            "discountBadge": "Sepette %15",
+            "price": "6491 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🛒",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "onw0dlgy4a90knt6hwsepq",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "e-bebek",
-            "price": "107 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "hhpr9hr11tgvg5e2b9x9ok",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Hepsiburada",
+            "price": "5137 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "7poz8a6a28izcyxfqmah3",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "582 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "lz5vdnh9anc6czckejv",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "e-bebek",
-            "price": "510 TL",
+            "id": "ilmpyyrnqhx25alvt8poq",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "626 TL",
             "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "d5cxppkapl6qrrzeiilw1n",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "417 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🪑",
             "buyUrl": "https://www.ebebek.com"
         }
     ]
