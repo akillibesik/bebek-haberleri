@@ -1,49 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "cy5o3hv28vg7ly94qjti8l",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "543 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👶",
-            "buyUrl": "https://www.joker.com"
+            "id": "95rlv72yeqpy0uzi3cvn1e",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "607 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "pnrll3iwhvods5texwklo",
+            "id": "2d0l669h4krqfc1bs4vp3e",
             "name": "Kraft Berlin Bebek Arabası Grey",
             "store": "Trendyol",
-            "price": "6491 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "price": "6862 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🛒",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "hhpr9hr11tgvg5e2b9x9ok",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Hepsiburada",
-            "price": "5137 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "ilmpyyrnqhx25alvt8poq",
+            "id": "7k0vauqmwvw3wxf3sjsl38",
             "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Hepsiburada",
-            "price": "626 TL",
-            "discountBadge": "%30 İndirim",
+            "store": "Joker",
+            "price": "736 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🧸",
-            "buyUrl": "https://www.hepsiburada.com"
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "d5cxppkapl6qrrzeiilw1n",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "417 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "d44b1i93kyo74rsh4dwfa",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "207 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
