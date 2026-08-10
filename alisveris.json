@@ -1,40 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "95rlv72yeqpy0uzi3cvn1e",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Trendyol",
-            "price": "607 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "2d0l669h4krqfc1bs4vp3e",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Trendyol",
-            "price": "6862 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "7k0vauqmwvw3wxf3sjsl38",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Joker",
-            "price": "736 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "d44b1i93kyo74rsh4dwfa",
+            "id": "7y4z8a0lxfcpi2cjzfcw5",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Trendyol",
-            "price": "207 TL",
-            "discountBadge": "%30 İndirim",
+            "price": "265 TL",
+            "discountBadge": "Sepette %20",
             "icon": "👕",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "c5j57yy1b5zolbxs2tjng",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Hepsiburada",
+            "price": "314 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "wsaahnrkdjj15nw562qoft",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Hepsiburada",
+            "price": "393 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "jkw7e9143b7ieiyklp1s",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Amazon",
+            "price": "364 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
