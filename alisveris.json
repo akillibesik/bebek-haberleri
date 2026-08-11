@@ -1,42 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "7y4z8a0lxfcpi2cjzfcw5",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "83z3hz076k2or35qf8vtzn",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Trendyol",
-            "price": "265 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "👕",
+            "price": "548 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧸",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "c5j57yy1b5zolbxs2tjng",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Hepsiburada",
-            "price": "314 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "2zj97vvxun56zc7qd0q62",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "520 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "wsaahnrkdjj15nw562qoft",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Hepsiburada",
-            "price": "393 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "jkw7e9143b7ieiyklp1s",
+            "id": "3t01blq46yc8ij4v98bepe",
             "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Amazon",
-            "price": "364 TL",
+            "store": "Joker",
+            "price": "340 TL",
             "discountBadge": "Sepette %15",
             "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "ehhvi8cccefdcw75xhkdv7",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "e-bebek",
+            "price": "102 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "qkeafxycy8hfhcame0n909",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "196 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
