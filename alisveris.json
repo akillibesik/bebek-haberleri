@@ -1,40 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "lhht751liklcn670hgwvz4",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "bkweh7o3zgo4nd2y9ggm1p",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Trendyol",
-            "price": "312 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👕",
+            "price": "201 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "kyudx034y92qgjmih7kj6",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "id": "xsjary4rbdajmwyqfk6tos",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "e-bebek",
+            "price": "987 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🌡️",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "b0jtncmshvqfnw091vtk15",
+            "name": "Wee Baby Burun Aspiratörü",
             "store": "Civil",
-            "price": "75 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
+            "price": "115 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👃",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "vrl1gfn8pkqmsy972ea9lk",
-            "name": "Philips Avent Antikolik Biberon 260ml",
+            "id": "zcgph04gklktxexwspi6m",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Trendyol",
-            "price": "337 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "price": "492 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "vsphzd7svactvokx2age",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "138 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👃",
-            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
