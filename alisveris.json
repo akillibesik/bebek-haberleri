@@ -1,42 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "bkweh7o3zgo4nd2y9ggm1p",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "201 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "gkgsg22ngjgwl1dzpbeurl",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Hepsiburada",
+            "price": "298 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "xsjary4rbdajmwyqfk6tos",
+            "id": "thpfls0u049xrbhewv1usa",
             "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "e-bebek",
-            "price": "987 TL",
-            "discountBadge": "Sepette %20",
+            "price": "938 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🌡️",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "b0jtncmshvqfnw091vtk15",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "115 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
+            "id": "z9xehe0wouigacsnbwiggj",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Amazon",
+            "price": "558 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧸",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "zcgph04gklktxexwspi6m",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "nkao844nvzm17j618flvzg",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Trendyol",
-            "price": "492 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "207 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👕",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "49aiw3683vewg78te0a9cq",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Hepsiburada",
+            "price": "6765 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
