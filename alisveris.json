@@ -1,50 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "gkgsg22ngjgwl1dzpbeurl",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Hepsiburada",
-            "price": "298 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "thpfls0u049xrbhewv1usa",
+            "id": "ucdi8a7vq7er9zbjgco7a",
             "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "e-bebek",
-            "price": "938 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "z9xehe0wouigacsnbwiggj",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Amazon",
-            "price": "558 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "nkao844nvzm17j618flvzg",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Trendyol",
-            "price": "207 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👕",
+            "price": "1051 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🌡️",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "49aiw3683vewg78te0a9cq",
-            "name": "Kraft Berlin Bebek Arabası Grey",
+            "id": "xoaz3s5f7ukcrwmkdshc38",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "578 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "i47laqarr23zhpytpaqhd",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Hepsiburada",
-            "price": "6765 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
+            "price": "195 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "ebvv66an8gmz5whp7nv0m",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "127 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
