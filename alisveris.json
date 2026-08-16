@@ -1,41 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "ucdi8a7vq7er9zbjgco7a",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Trendyol",
-            "price": "1051 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "xoaz3s5f7ukcrwmkdshc38",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "88209j5vzqszyk3m8kfcd9",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "Joker",
-            "price": "578 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👶",
+            "price": "121 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧻",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "i47laqarr23zhpytpaqhd",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Hepsiburada",
-            "price": "195 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "ppbenf6p5io7ceh6yle4fj",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Trendyol",
+            "price": "551 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👶",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "ebvv66an8gmz5whp7nv0m",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "127 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
+            "id": "iva0cm5wa5obijynm8ntzc",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "182 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "q8ng4rrx5wdpsj1ypczm7",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "311 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
