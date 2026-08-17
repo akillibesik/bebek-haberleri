@@ -1,41 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "88209j5vzqszyk3m8kfcd9",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "id": "5515p73gd47q377zyvhqll",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Civil",
+            "price": "378 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🪑",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "zivg6f0guq8yp8rmy4p6m",
+            "name": "Kraft Berlin Bebek Arabası Grey",
             "store": "Joker",
-            "price": "121 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
+            "price": "6406 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🛒",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "ppbenf6p5io7ceh6yle4fj",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "551 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "iva0cm5wa5obijynm8ntzc",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "182 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "q8ng4rrx5wdpsj1ypczm7",
+            "id": "y39evc038nqqi61fh09ge8",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "311 TL",
-            "discountBadge": "Flaş İndirim",
+            "store": "Amazon",
+            "price": "282 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "5ic3jwmzlva9dknhj8fhjj",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Hepsiburada",
+            "price": "517 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🤱",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
