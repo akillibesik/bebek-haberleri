@@ -1,41 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "5515p73gd47q377zyvhqll",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Civil",
-            "price": "378 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🪑",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "zivg6f0guq8yp8rmy4p6m",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "6406 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "y39evc038nqqi61fh09ge8",
+            "id": "xzwm7ri7vdn18fi3m1tzsjj",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Amazon",
-            "price": "282 TL",
+            "store": "e-bebek",
+            "price": "245 TL",
             "discountBadge": "Sepette %15",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.amazon.com"
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "5ic3jwmzlva9dknhj8fhjj",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "517 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "2038d0yp603x2cjximdyvf",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "140 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👃",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "r441ectzbt3hnvuo5xh4f",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Joker",
+            "price": "419 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "86k11aathh2hcc469dfc6a",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "e-bebek",
+            "price": "314 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👕",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
