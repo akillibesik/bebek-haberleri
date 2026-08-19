@@ -1,42 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "xzwm7ri7vdn18fi3m1tzsjj",
+            "id": "y2pz8ik3dint8x6tqoar9",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "319 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "gcde4pzzgbhr4ubfgrzldk",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "465 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "ekbybwmt8x7i98z2dbcngd",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "245 TL",
-            "discountBadge": "Sepette %15",
+            "store": "Amazon",
+            "price": "255 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "2038d0yp603x2cjximdyvf",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "140 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "r441ectzbt3hnvuo5xh4f",
+            "id": "b8vahi44lex7ttndi303",
             "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Joker",
-            "price": "419 TL",
-            "discountBadge": "Günün Fırsatı",
+            "price": "519 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "86k11aathh2hcc469dfc6a",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "e-bebek",
-            "price": "314 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
-            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
