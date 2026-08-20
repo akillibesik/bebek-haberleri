@@ -1,43 +1,367 @@
 {
   "saglik": [
     {
-      "id": 1,
-      "title": "SAGLIK kategorisinde yeni haberler yakında...",
-      "source": "Bebek Rehberi",
-      "date": "19 Ağustos 2026",
-      "readTime": "3 dk",
-      "desc": "Bebeğinizin uyku düzenini sağlamak için karanlık ve sessiz bir ortam yaratın. Beyaz gürültü kullanmayı deneyebilirsiniz.",
-      "link": "https://google.com"
+      "id": 7,
+      "title": "Bebek Bakımıyla İlgili İşinizi Çok Kolaylaştıracak Aşırı ...",
+      "source": "Onedio",
+      "date": "31 Mayıs 2024",
+      "readTime": "1 dk",
+      "desc": "Bebek Bakımıyla İlgili İşinizi Çok Kolaylaştıracak Aşırı Kullanışlı 10 Uygulama  Onedio",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTVWenBZZndwaUtCZGwyUDVobmktUExCR3lfb2dHVkVyUU5BVGhRdUt4TGRkOHNocDBFdUZBY1Z2QXpUSV9WS2FXQ1RsQk1RSDJxaVoyVnNhQ1JYckk3UXNZRkliS00ybE5oZDA1dGQtd3lmT1FBOF82MEF3RnVkcmt4NE4xNkg0Wk5sMVJpZV9ERkJheGpFWTlTZTl3eU1ETEpGRlRQVHlMNWcyUWhnWTF3?oc=5"
+    },
+    {
+      "id": 54,
+      "title": "Doktorlar ‘gaz sancısı’ dedi, yenidoğan bebek hayatını ka...",
+      "source": "Hürriyet",
+      "date": "9 Mart 2026",
+      "readTime": "1 dk",
+      "desc": "Doktorlar ‘gaz sancısı’ dedi, yenidoğan bebek hayatını kaybetti!  Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbkhZMk1wY2laRmwtRE5xaGZKTzFIMXBrMWp1VVVPMVZWaUl2Q2pSSWRQQWRRTjF1N2p0MmdJUlNfSV83UWRMS1prYTM1YmJjRFNNWGxydjJzMDI2RWd4ejEyVjNMS3pyRjliaDBiRm4zRFV2QXFRT2tyZ3FicFJ2YUxYV2ZHLW1FN2owdU81WHYzWXJ5eVA0OHkzR2hQVk9CSlcxSjZuc0kxQlQ3QVE?oc=5"
     }
   ],
   "gelisim": [
     {
+      "id": 1,
+      "title": "5 Aylık Bebek Gelişimi - Bebeğimin Ay Ay Gelişimi",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "5 Aylık Bebek Gelişimi - Bebeğimin Ay Ay Gelişimi  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sTFRPbkpCeFNuX2lITFM2WVVsS0Z4M0pDZU5Qc29obXcyRzNCd3YteEVMUDVrZUZxR2puNUJ6UWpUVUJCSnFSaWswV2ZkSHVudEhTU2ZjQVVqSXJWV01GT1k0ZXZFMmNyUkl2VHJZU3FFT0Vrb1ptbUZR?oc=5"
+    },
+    {
       "id": 2,
-      "title": "GELISIM kategorisinde yeni haberler yakında...",
-      "source": "Bebek Rehberi",
-      "date": "19 Ağustos 2026",
-      "readTime": "3 dk",
-      "desc": "Bebeğinizin uyku düzenini sağlamak için karanlık ve sessiz bir ortam yaratın. Beyaz gürültü kullanmayı deneyebilirsiniz.",
-      "link": "https://google.com"
+      "title": "1 Aylık Bebek Gelişimi - 1 Aylık Bebek Neler Yapar?",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "1 Aylık Bebek Gelişimi - 1 Aylık Bebek Neler Yapar?  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTUUJoQ1JveXFRN0UzWFFUb19qU2JBNG10RnkzNVQ3Ymp4eDJMQ0FUSmFRTEhpM0VQQkZGZ0duZVh3aVJoSXBIUHlsVUZiWGJyRTlZRzdLWTlPNVZ6LW56VFdkQUxTZlc5cXljdUJzaF9ZVW1XUUkyWVRSYw?oc=5"
+    },
+    {
+      "id": 4,
+      "title": "Bebek Gelişiminde Oyuncaklar - Bebek Zeka Gelişimine Dest...",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Bebek Gelişiminde Oyuncaklar - Bebek Zeka Gelişimine Destek Oyuncaklar - Bebek Gelişimi Oyunları ...",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1BkM1F0Sm5Qd1FyMko3YlE0RExjQkNldHV4bmV6NW1fbXNUa3IzbEdlUmk2U0c3enpYc1BLaVQyNlhBRHdyLUdGM1hDSnd3Z1M5OXg2OTl2TnJjb213MmZNT0pmdV9BVVBzaGRVQ2taV1h0cG4wbG5Dd3JJaUwyZlR2UnN1R1lmQzA1XzgtR3NLTGIxWFhNNk9PTE5xel9GNkFqQ3hRb2x6aFhac2JiVW5OaFpJQQ?oc=5"
+    },
+    {
+      "id": 5,
+      "title": "10-11-12 aylık bebek gelişimi nasıl olur? Uzm. Dr. Seda G...",
+      "source": "Memorial Sağlık Grubu",
+      "date": "14 Şubat 2023",
+      "readTime": "1 dk",
+      "desc": "10-11-12 aylık bebek gelişimi nasıl olur? Uzm. Dr. Seda GÜNHAR DUMAN  Memorial Sağlık Grubu",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1lQQjJyUFgxVXkxcGJfc0lwVHU0ZXRtLUYwRmktZV9md2xnbWFucW5HMU5VNFhZLXFnWXo5eVVXd3dWdWduN3VBWVAxa1ZnYlBCYnZON3pSOE5nYlM1QXZFY0xERkllbV9TY1V3VTFzOXYtVFJVcjNGc3Q3bW93YnlpZnhXUnc?oc=5"
+    },
+    {
+      "id": 6,
+      "title": "Bebek gelişimi hakkında doğru bilinen yanlışlar",
+      "source": "Hürriyet",
+      "date": "8 Temmuz 2020",
+      "readTime": "1 dk",
+      "desc": "Bebek gelişimi hakkında doğru bilinen yanlışlar  Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFpObW9rSHJQVnYxOWpTeEpINjN1NGhzbzQyWDlvY3o2bU9vNGlUSU9YSU5jU3JwMnM3MDJGNUhzaHJQZWZwZkZ3d3hNWEZNMXdveWJSUFk3T2dYcWQ0bVZ6VlpCWXZNek4zVnFhNEVLa1ZNVHdqN01xeXJNLWJyT2Z6dmYtVEZ0bFdEeW5oRzY3QnMwZXhVTkNR?oc=5"
+    },
+    {
+      "id": 8,
+      "title": "12 Aylık Bebek Gelişimi - Bebeğimin Ay Ay Gelişimi",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "12 Aylık Bebek Gelişimi - Bebeğimin Ay Ay Gelişimi  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2WFByb2ZOV0tTUFV0cG90cDFvbnN2ZDV2MHpkUU1xTk1VWEI3dXVOS2psNDZqLUw2LV84QXozSjFRdENaVDNKZDJadGtjeGszN1BqYzhhVkZNMERlUGREb3J5MU9ZWFhBT1hEWlBUWTc5OW5Jb0lvdTNXMA?oc=5"
+    },
+    {
+      "id": 9,
+      "title": "3 - 6 ay arası bebek gelişimi",
+      "source": "Hürriyet",
+      "date": "11 Ocak 2021",
+      "readTime": "1 dk",
+      "desc": "3 - 6 ay arası bebek gelişimi  Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnFvbHFQY2poUnVtTl9fYmhpdW5ES0I1UUlFNGprNm5ma1VUVFhjQkZXeEpVTXNjd01CLVl0LTlHcWtGSGc5MHhYZW9EWDljY3JIaTlNNFBfeVg2bzl5S0pHQzE1RExydXU5QURwemZ0SnMxMm9yOVpUb1VQeHlxZ21YUEs3QktZT2pRRVRCU3EwS0ptWW5UbDNVQUVHOHc2S1lr?oc=5"
+    },
+    {
+      "id": 10,
+      "title": "Ömer 12 Aylık | 12 Aylık Bebek Gelişimi | İrem Sefa Yayımlar",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Ömer 12 Aylık | 12 Aylık Bebek Gelişimi | İrem Sefa Yayımlar  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSi1zRDBIVDhwU09oMWVPOXBud2h3LXgzYjRVTjg2XzA5N0UxNElPTlVhRXIweV9kbEpRZDVQdkQ4RHIzRzA4NHpFdldwQUxuUlpJT3lwLWg5Q2lQcGpkSUdKZzdKdktKdnkwdkh2WVc5Vnp1OHAxY2dRSzlnTVZ6aEJuRUJ3Zw?oc=5"
+    },
+    {
+      "id": 11,
+      "title": "Ömer 14 Aylık | 14 Aylık Bebek Gelişimi | İrem Sefa Yayımlar",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Ömer 14 Aylık | 14 Aylık Bebek Gelişimi | İrem Sefa Yayımlar  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalU5aDA1T1I4YUpOeEF4aFpacDFhZ0JQbVVlR2dPTE1FT2FxcTd2TVNscDJHTkRlcXBzWHplMDdxX1ZwcEFWbHZhVXVUZkJFSVpGd3R4cG5RMWp2akZwcEs0cXd5d043ZVJHUE9PVWxZRld3Q2p5RG54SS1CLXdsMVFNbnVNQQ?oc=5"
+    },
+    {
+      "id": 12,
+      "title": "Ömer 15 Aylık | 15 Aylık Bebek Gelişimi | İrem Sefa Yayımlar",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Ömer 15 Aylık | 15 Aylık Bebek Gelişimi | İrem Sefa Yayımlar  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3dDWEg0MnVrWmNtM0V2ZmxtREt5SHlRZEMxWnQ3bnJSUm5icXllcWZLaTVCYmhVWTdLUkt2Z2t4UUNKMkJST0Nzck9hQnlsWmpyQjBYWDEwQ2NQZmxIQjJQQl9wQld2cnVKTVBhUlBnOG5VdDVOVEtjWHlzTmQzS0x4QnVjZw?oc=5"
+    },
+    {
+      "id": 13,
+      "title": "Ömer 11 Aylık | 11 Aylık Bebek Gelişimi | İrem Sefa Yayımlar",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Ömer 11 Aylık | 11 Aylık Bebek Gelişimi | İrem Sefa Yayımlar  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjdlSmd3Z2h4anpJMW5IT1dDN3hVc3M1WnBTemNaSUFuNkZBa2pPdEQtYUpYSmZ5dV92WnNqRW9GNUs1M0pHdUtzcWk0RHRzLWk3X2hRRlVZczlWSjNheHVwZHVKa3NNdGgxOTZkMndyOFBJVV9ORFJrLUpFbEwzMVBhRnJhQQ?oc=5"
+    },
+    {
+      "id": 14,
+      "title": "Ömer 16 Aylık | 16 Aylık Bebek Gelişimi | İrem Sefa Yayımlar",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Ömer 16 Aylık | 16 Aylık Bebek Gelişimi | İrem Sefa Yayımlar  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3U0ZzRBazJqOWdzSVhYNHJNOFJJcFkya2tTQ1ZWQWZ6U1JFbmxDalREdk93bW41QWE3d0FXN2QwSm11ZHVBMzFoalk0MU9xMmc4QjdQWWtNNmYyMGRYZ1RzU3lXa0FibTRZblpTVW1lQlpFTkFkNlotNlFhZjI0Szhtak9GZw?oc=5"
+    },
+    {
+      "id": 18,
+      "title": "Erken Çocukluk Eğitimcisi Feyza Yeliz Bayındır ile Oyunun...",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Erken Çocukluk Eğitimcisi Feyza Yeliz Bayındır ile Oyunun 6 Evresi  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2ZrX3ZJcDJTbjRxaUE1amV0bWRSdjR1NnhkQWY1QmZuQk9FWjQxTjBKU1piMmQ1ckhzeHViVUxpZVRwUUtmRHRUbHQwTnhIOTJfS1pqNHNhV3pIRFRNOVp5cVZlM29ZNlRsUmhlRkxLbkQ4VVBmVHBpTi1CSTl3MDdFdFZZcUxGVmstOFBsTUdhQQ?oc=5"
+    },
+    {
+      "id": 19,
+      "title": "'Beyin besini' kolinin neden gözardı edildiği düşünülüyor?",
+      "source": "BBC",
+      "date": "11 Nisan 2025",
+      "readTime": "1 dk",
+      "desc": "'Beyin besini' kolinin neden gözardı edildiği düşünülüyor?  BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16WU9WV2pCS0swNTJTNDBIcG1HeTRuRE1UUlBCLVBfN3kzMUg3M0dPSEx3SzR4Z1NtUTJHN3J0TkxfZk55a3BkVEJOajkzZEJsWTV0WUpJcnRJUGxj0gFiQVVfeXFMUEJFOC16UWJ4S08xaHhhaWw0X3MzZXJCcnNzblNwcU1qT1gzSzd2SkpTNENhbHBEaTZkRklRZG1odnRGUWtxQUpjbFdCNy1RZW9CRXp0R2Z3TW84bG9qRldIMnc?oc=5"
+    },
+    {
+      "id": 20,
+      "title": "Hamilelikte 27. Hafta: 27 Haftalık Bebek Gelişimi",
+      "source": "Sabah",
+      "date": "30 Nisan 2020",
+      "readTime": "1 dk",
+      "desc": "Hamilelikte 27. Hafta: 27 Haftalık Bebek Gelişimi  Sabah",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVZRa1lUaGowMi1qdkFzaTB5ZUp0LS1IaC1CVGJPVWVqaUg0LVVPNS1TNUd3RWZfR2l3MHp5cGF2RHB4VEdzandPZXpFeFZzc3Y4bjNOMlZnRkpuNDVzeVdlUURDdTFDMzZ5R1Y2VkFnVUE0dFFxRGU5eDVzZG5rR0VfbTE5RHBMSTA3ZzdmdHVGdGJXem4xNNIBmwFBVV95cUxOeUMxcHRCVDJCZGkxSW1xUHFkeXUwclRUeExRUmJYTGxpYmNoVXFFTklqQm1xYnBTQXk3endwN2dwMXdKUlFGY1VQbVFPaU1BSzJudGtGZWY0NGNHdzdzenU0VEkzT1UzZVd6NUxwWG42clppWWdpWjFZX1E0bEVES3ktOWZyeDM1dG1SbVRoMFp1dHliWnJUQ2lTZw?oc=5"
     }
   ],
   "beslenme": [
     {
-      "id": 3,
-      "title": "BESLENME kategorisinde yeni haberler yakında...",
-      "source": "Bebek Rehberi",
-      "date": "19 Ağustos 2026",
-      "readTime": "3 dk",
-      "desc": "Bebeğinizin uyku düzenini sağlamak için karanlık ve sessiz bir ortam yaratın. Beyaz gürültü kullanmayı deneyebilirsiniz.",
-      "link": "https://google.com"
+      "id": 17,
+      "title": "19 Aylık Bebek Gelişimi: 19 Aylık Bebek Kilosu Kaç Olmalı...",
+      "source": "CNN Türk",
+      "date": "27 Ekim 2020",
+      "readTime": "1 dk",
+      "desc": "19 Aylık Bebek Gelişimi: 19 Aylık Bebek Kilosu Kaç Olmalı? Beslenmesi Nasıl Olmalı?  CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVdCY1VYSkh3dXZtZktUdWhHTGIzYm9VLWR0ekx0WTF4SkRlaC1qZU9CTFBFMnJHYjBpUllCMUpDb0NYUFFxWlNBb3RVZThmZkV3UHZoUjlwNWtXZV9qV0kteUJkZEMwXzhUTGNLcWxzLVc3bHgtMTk1aTZsNHItdkZXVkJ2MDhzdFoyVFdzYmFrM3d0X182YkY0N21rQ0xXRmVZWnJibUdkX0RTdUQ5VVRvTVE5bGU1UENz?oc=5"
+    },
+    {
+      "id": 21,
+      "title": "Anne sütü de sınıf mücadelesi: Emzirmek bedava mı?",
+      "source": "soL Haber",
+      "date": "7 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Anne sütü de sınıf mücadelesi: Emzirmek bedava mı?  soL Haber",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjJ4d3packx3Yk9OSkw1cWJCTTF0QUdJRTZ5ZllmTFh4c2hHa2ljRVc2WmdyRU0xLWhpUU9oZ3hwbUwwdkFBbFVJWnUySFNXYlRYa1VIa0s0S2U3bzc5VW93MEpCRlZJcFdhSGZEODJSQXNFMXM5a3labkNaQXBMSGFwblRidUsxYURuVWQyQQ?oc=5"
+    },
+    {
+      "id": 22,
+      "title": "Anne sütü bebeğin ilk aşısı: 'İlk 6 ay su vermeyin' uyarısı",
+      "source": "Cumhuriyet",
+      "date": "4 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Anne sütü bebeğin ilk aşısı: 'İlk 6 ay su vermeyin' uyarısı  Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQajB6TEhKZFloa05LU1RIanBiWTFqbUJwQS1mRTU5QVZ6bERqWDhYT2d0cThzMkd2THBTbTdNa2s0SENQT2lGMkhSd25RU1JhcHo3VU5vRklXWmhOdVV1Nk9fbTFmdGk4aFhWZ3VVNXNNczR0Vjd3RkF1b1NJV2c1SWdlMFk3ZVVjempRbVJVMjFpZnk0ZEFWd0M5YVVHaTdfM1JV?oc=5"
+    },
+    {
+      "id": 23,
+      "title": "Gölyaka'da Anne Sütü ve Emzirme Farkındalık Etkinliği Düz...",
+      "source": "Haberler",
+      "date": "17 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Gölyaka'da Anne Sütü ve Emzirme Farkındalık Etkinliği Düzenlendi  Haberler",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVZyYmhUM3g0ZGFkWS1zUjEzamVia3l0bU1KVFA0Zi1iNEN4V05QVTE4dE9iRnVJUnlQeGlJeWxMd3k5VlN6bV9PVzZlYmxpYnBPbzNmOTV6NFhERExWS0VtYlBZT3F1dWNackYwMnU1Mng4aWRYMnVTSVFXLTR3Q0NvLVB1WlVWSm84ZllKSi1CVG9RdWUw0gGXAUFVX3lxTE95VnJiaFQzeDRkYWRZLXNSMTNqZWJreXRtTUpUUDRmLWI0Q3hXTlBVMTh0T2JGdUlSeVB4aUl5bEx3eTlWU3ptX09XNmVibGlicE9vM2Y5NXo0WERETFZLRW1iUFlPcXV1Y1pyRjAydTUyeDhpZFgydVNJUVctNHdDQ28tUHVaVVZKbzhmWUpKLUJUb1F1ZTA?oc=5"
+    },
+    {
+      "id": 24,
+      "title": "prematüre bebekler için anne sütü bankası",
+      "source": "Vietnam.vn",
+      "date": "14 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "prematüre bebekler için anne sütü bankası  Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00WkJfVktwSHdkNDA5MkZlMkNIZGZWdVFJZjR3UU1vd2I5VnFxaHQzV3l1ZGZNWWstVEV4N2NMT1ZqS25kTlQ1R0xadFA0V3BoY0NGOXA1djhpUGRRVHRWNUdaSUNlMTlfNUtv?oc=5"
+    },
+    {
+      "id": 25,
+      "title": "Bakan Memişoğlu: Anne sütü, hayata atılan en sağlıklı adım",
+      "source": "NTV Haber",
+      "date": "2 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Bakan Memişoğlu: Anne sütü, hayata atılan en sağlıklı adım  NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkxpeU5ndUliazlidlM3Vi1mb1R3VXRwWjBVdThXclcwYXhla2MzOUhOcTRhRXFnem5RbDJLZ0RVVjVxaGY4UG1kbV9DbXA0S2dJM1pPU1dLX25lMXdBUGJBMDFTMFJqMUF0Z3UzazJkZDVXTTlhTVJXQjNxRi1oUjY4WDNBNHVDMGdTUTlKVGNXTHlmRHU1Nk54b9IBoAFBVV95cUxPQUxvX3VEZXM3SjlkWFpTTkpwbTgzd0tuMnRycW5GdFlwUHJUVUhpd1ZLQy16M3NIQmR5Q2t2Z0VTNGt5VEtLVTFkR1d2TnVCR2dRZm0zTnhIUWFNY3gwWklFdUpyWS1Ca3dWYngtRjFxallDdVU4MWEyZTVhUW1FR2M5dUxHeXY1MlIzS0FKV2Z0eEZ4VnotWm1CZ1ZuQzNz?oc=5"
+    },
+    {
+      "id": 26,
+      "title": "Gölyaka'da anne sütünün önemi vurgulandı",
+      "source": "Saray Medya",
+      "date": "18 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Gölyaka'da anne sütünün önemi vurgulandı  Saray Medya",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTQzUVFFajJtLWo2TTlvWEN3bU9VSXZNcmoxY21oWW9la1NwWDIwcWpScWhCV2VCUk9Ib0tEOXJONldXaUNLaDF2QjZ6aWx2cTZoMHVrUHU1QUw1Q3U4ZEdiU0RMOEY2YXI4NF9aMXU0eXI2ZE96NzBpWGcwRDU0QklvT2E3Rm5q?oc=5"
+    },
+    {
+      "id": 27,
+      "title": "Gölyaka’da anne sütü farkındalığı için sağlık kurumları g...",
+      "source": "Aksiyon.com.TR",
+      "date": "17 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Gölyaka’da anne sütü farkındalığı için sağlık kurumları güç birliği yaptı  Aksiyon.com.TR",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWR6MlBxRjdiYUxndU9PUHprM3BCcllrN2gzTjBOS2o4NGtuSDdDTXowMS16a3RpTW5uaEx2X18yampXNWM4alhBU1huaHJ3NEdxWDU2aFlMUWNldkpUMFJRUmRsREg2NElTVFZvdWs0UVptUFZDbXc4QkdVaWU3bGFoNHZIcTI1RThibkkzVmtrb3R1cE9BVndCSmZ1UTloVGpZMnZnYklWU2vSAbABQVVfeXFMT3d1UU51aU5GMmlTOEhYRlktODFiREZxeW1MU3I5TVdhQjVRQjcyTVdhaDU5eVo2YnFVZkg4ZkJIWGpGMDR2QTRmbEtycTh1a3FmZl9rbU96WEJwTmNvcHNySUdmNGM2SmY5TE4wMnpQOFJHVkpnaWFsT05oSVdTUUY3OTZ2cms5N05VSjNrZkY4VEktd2E4eXVuWXFycEhybVNiWWo1STBvX3R6bDZLN3E?oc=5"
+    },
+    {
+      "id": 28,
+      "title": "Prof. Dr. Güzoğlu: Anne sütü bebeğin ilk aşısıdır",
+      "source": "Kıbrıs Postası",
+      "date": "5 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Prof. Dr. Güzoğlu: Anne sütü bebeğin ilk aşısıdır  Kıbrıs Postası",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWR4d1Y5S3Y4c2s4YUlfT3BwMmRDc1lpNEk4b21oWmtSbTFQWnRrT3lGWWtlZzJMVzFJMXhCN19MZVdvRnFWeFN2N0hiTUVUQ2Ztbm1mZ2xHWW03Tm1CVVZmN3Z3Y3RFcjJLaDZGWWpRNnZrSVdrT0wxYVNmb3ZGZ2g5cWNBWWk0UmVPLXlXWFhCTENTNmlQd3Zrdw?oc=5"
+    },
+    {
+      "id": 29,
+      "title": "Elazığ Belediyesi’nden Anne Sütünün Önemine Dikkat Çeken ...",
+      "source": "Kanal23",
+      "date": "5 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Elazığ Belediyesi’nden Anne Sütünün Önemine Dikkat Çeken Seminer  Kanal23",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDhMYUwxVTJYZHdXeF9QR3poS2NGUjdPbnh2b2M5UVZwQ2VjM2dqblczN25FTEszTUZHbjZFbjFFU2ZiTFFMd3VCZTVmTFFZQVZ5TURoejBsdXNVc2NLQ2dveFB1MVdleWJqS2wwdXdMV3k2S0dDNUZXTzFQd2M3Qk80SzhpRnJfLW9jLW1oOHlnU3lBUy1RYjkwQ3hYVEhNR2RFemZmTjF0RXVNTHc?oc=5"
+    },
+    {
+      "id": 30,
+      "title": "Anne sütü bebeğin 'prematüre' olduğunu biliyormuş!",
+      "source": "Posta",
+      "date": "6 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Anne sütü bebeğin 'prematüre' olduğunu biliyormuş!  Posta",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTUY0aWJtaEtINnBaek84U0pWNHVGdDRDeVoyN3B3d2lXTUY4VzU1cERWLXl1YkxIR0dtMFczd1NhbzlCaENrZE1JMjUtcjNKREZqZ2FFR2tlSEVVdVJrVE5vdjBHWEJjSUpFUE9xNkRMQ284MExRdHEwVkdUcXBFd19vSHlBMjRhRDk1UWJsTFg?oc=5"
+    },
+    {
+      "id": 31,
+      "title": "Dr. Zengin: Anne sütü hiçbir laboratuvarda üretilemeyecek...",
+      "source": "İlke Haber Ajansı",
+      "date": "6 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Dr. Zengin: Anne sütü hiçbir laboratuvarda üretilemeyecek eşsiz bir besindir  İlke Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFlDTlkwYVhTSDFOWTFSSEw5ckc3SExpUmVYdXNpeUlWcWl1Z1BMeWtVR1EtLUtPeHNQbHNXcE9pSW1Kblg4QUhlV1VXSzVmSm83WFlNVFlOYUVsa1JRTWNwQklqRUxpNTNqMUI1WlBnWEdBbXVLemtST0dEWlZrYjFJc25ISEdRZEI1dUhkWTBHMm9ycHM3RkwzS3ZrWXpRTVc5SWg1TkhKUQ?oc=5"
+    },
+    {
+      "id": 32,
+      "title": "Anne Sütü Bebeği Baştan Ayağa Destekliyor! Beyin Gelişimi...",
+      "source": "CNN Türk",
+      "date": "9 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Anne Sütü Bebeği Baştan Ayağa Destekliyor! Beyin Gelişiminden Bağışıklığa Kadar Etkili  CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWJhdFcxblFnOHBGMThTT0VJZnNQYWltV0s0SWs1TVFwVnFhMlV2NEdnTkxEZWF0QURlSXdNVWdGZGRwYk14bi0xMlBVcmpLQUJkdzZLdTctSkVQdHhmbWtyUDJwN3M0Z1VWZS1JeC15YTRhNlNVUU5seWpOOTdDZld4VFdad0d2RkNKaFpZZTdScDFSMk5CRGEtcFlsanhXQVE5ZElnbkdUXzljOWJ6bXN4R3V4ZmVpN2hBd2dRcG5ybXlwSHVsUnB2dw?oc=5"
+    },
+    {
+      "id": 33,
+      "title": "‘Anne sütü eşsiz bir mucizedir’",
+      "source": "Yeni Asır",
+      "date": "2 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "‘Anne sütü eşsiz bir mucizedir’  Yeni Asır",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcklYNzRFeW9qR2lyRi1kbERILUlmZWUzX2dnNm41Y3U3enU0M1o2cVFsRVdwdmhhbFhVUUNESXZFMWR3czhpRTlvcTZmUGRpT1dGeVh4cFlZRUZpQ09Ud0FnUEYtOW1tMEJMMVlfQTVPS0NVd1JUODNlMktaWDRjZg?oc=5"
+    },
+    {
+      "id": 34,
+      "title": "Bebeğe en değerli yatırım anne sütü",
+      "source": "Yeni Şafak",
+      "date": "4 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Bebeğe en değerli yatırım anne sütü  Yeni Şafak",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFU3QUNrVzlZMEVZZnFUWUtqMFUyUFpfU2otdEhRN3lDeUw3VHJUWjRXUlptVnBZWURXX0ppUnlJcDlkTVRqeVg3UmhVZGFjaUNNNzg3N2VIRGV4NDhZZlk2eDU3eDhyT1VxbHZtVWQ0ZHBROVMwbUNsZWlibjcyaQ?oc=5"
+    },
+    {
+      "id": 35,
+      "title": "Termal’de Anne Sütü ve Sağlıklı Yaşam Vurgusu",
+      "source": "Yalova Gazetesi",
+      "date": "6 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Termal’de Anne Sütü ve Sağlıklı Yaşam Vurgusu  Yalova Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmVXMWZpdmpieGloVnNRMGd4WUZVd3l5YTVCYm5KNnJNN3Q3Z251UVdmLWtqcWFFOUVXdGVfZkRwVVMxSVVtQ2hJUjZBalhOWDF5WjhucF80bmpwMUpVNWVCeC1HaG0wa2NjOEJvS3dXaC1TRWlsNHZGQ2tMWXRobQ?oc=5"
+    },
+    {
+      "id": 36,
+      "title": "HRÜ HASTANESİ’NDE ANNE SÜTÜ FARKINDALIĞI",
+      "source": "Sağlık Dünyası",
+      "date": "10 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "HRÜ HASTANESİ’NDE ANNE SÜTÜ FARKINDALIĞI  Sağlık Dünyası",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX25pd0JNdGNVVkhMZDJqRkVpTVkycmNXakZnNnNQTXQ5dk5IVU1wWEFsdFp6QTdELW00Q0lRU0dsOEhMODd2WDVMaU1zUVdSaXJIWV82MTlfOHJUeVdsYVNmMXBPSEJQekVlRDUzNFAtS2pnUzVIUjJWX3JOanZOdnRGUE50MlFRZWlYZ9IBkgFBVV95cUxNOTY1OEUza3NxN2VtVU43NFY0TXFiVmNVbG9OX1I2S2JGbUNIbXNIUW0tc29ueTVEOEFhbHF1S0tpMHF4c1NlTjFXX1VQNWZFUGFYMU9hbklVTWpfMWtDYWRHTFpHR2x5bEs2cFlSS0w2NzJDeFJNVGJzclc0RTRjSVpua25UdDdaeFRxaFRzMmU0Zw?oc=5"
+    },
+    {
+      "id": 37,
+      "title": "Dr. Köse: Anne sütü bebeğin ihtiyacına göre hazırlanan en...",
+      "source": "İlke Haber Ajansı",
+      "date": "5 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Dr. Köse: Anne sütü bebeğin ihtiyacına göre hazırlanan en değerli gıdadır  İlke Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHRDVWUwM2pFQ2F3OHFaRnl6UzJTMTBhU21IYlFGQXRhUkZPRTVYd2NrLU1nd2tlUEVuLWViN2otMXZhWFdwNWFsR2FzZmE0am5GdG9yT2dXVGRkM2NKNWxDZ2o5VjVtZ1RQb2tkdVNWOHBjUHpyZjhZTVlDc3E5dUktUklvNlFfUTFrTGVfTDhoTzV5eXY4Q2FLWkhsOUpNMW5Xa0xB?oc=5"
+    },
+    {
+      "id": 38,
+      "title": "Anne sütü bebeklerin beyin gelişiminde önemli rol oynuyor",
+      "source": "CNN Türk",
+      "date": "5 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Anne sütü bebeklerin beyin gelişiminde önemli rol oynuyor  CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbk1oNm9lT1Vfd2s2ZzFvSGNCSTNacTc1eW1yNXZzUnpKd3IzMmNvY2paM3VNYmRldUxiVFdwamZWcGloWG9rZ2VsMVY1VWI4TzVPQkZqaWZteHYzNUY0b0g2dF9VUVNyd0ZhQlAtWWVMSjZqWFlHNHktaFBVT3AwUklVd3hSRVVnYWFuUWk4enA4eWRXSnFDQ3pfT2FlUFZMSnpyM0pR?oc=5"
+    },
+    {
+      "id": 39,
+      "title": "Doğumdan Sonra İlk 1 Saat Altında Değerinde: Anne Sütü Be...",
+      "source": "CNN Türk",
+      "date": "4 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Doğumdan Sonra İlk 1 Saat Altında Değerinde: Anne Sütü Bebeğin İlk Aşısıdır!  CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObXFNQlFwU2J6bC0zcGFmeXdnbmUtVXQ0RFY3RlBoUERxUWowOEJfdEphMU9lbzdxTTNERTlaTVE5ajE5NG4ydzY3Zkl4TkVjb18yUmZ6dHdGR29uRGJDU3I5UTFYV1JpSlExOWZPd1pMX1d4ZDRmSG54V3prbjVCS1RLVWNvM3UtcDh1UnJfcXVQU2xpQ2VDQldKeHdmN0ROdk5PcU4zX2pIeWpWaTZMWm9PUmc4Q0JPNzA1QQ?oc=5"
+    },
+    {
+      "id": 40,
+      "title": "'Anne sütü enfeksiyonlardan koruyor, zeka gelişimini dest...",
+      "source": "DHA | Demirören Haber Ajansı",
+      "date": "4 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "'Anne sütü enfeksiyonlardan koruyor, zeka gelişimini destekliyor'  DHA | Demirören Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGNVWFR1OWNvZnJiTEozN0Y5emstVGQ0T2xFZkM4dUdZTldPQ2ZXQ3RlaG9pMDUxS1JTalN0VllrNlp0UXZPMVR0LWtXOWF2WElmZ2FaZVlGZjhVRHZFUWc0b1RpbTY2aEhkVXRfVGotRWN2TDNpR0tLUGZxRW1lNnhiT2NtZ3lPNnhXSUpGOVpBU0lLUXVOSGxrbE9iQdIBogFBVV95cUxQTFZuSHZfcnRuOWh0T2tYdlBoamJxRUNuZkZKSlo2dkNUdWE5ODVYQVpyZmZUMWQ0X00zVmtUdWVyemo2akFNalJZQ0xya2VmX0JxOVpmblRSaHVqLUdiNWNSdzUyd3h1S3ljN0NiMEZyNWZKMEpGbTUwVi1PalVuUkVCc2l5Zjc5SEx5RkJ0ZmVXVEI2MG52ZGQ1TkFkX0pjX2c?oc=5"
+    },
+    {
+      "id": 51,
+      "title": "Bebek Dostu Niksar Devlet Hastanesinden Anne Sütü Farkınd...",
+      "source": "niksardanismend.com",
+      "date": "6 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Bebek Dostu Niksar Devlet Hastanesinden Anne Sütü Farkındalığı - SAĞLIK - Niksar Danişmend Gazete...",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUV3Mm45X3A5MjVNa0RGSGhrVWJrVlNfVEZXOXZKa2tzQ0UyNlFlQmF4UEZQSVcxSjVibTBOSDNDdk5BNU8zdlh6TXRRMGcxRmY2OHI1MjZ4eUJiZnZDV3Z5SEIzeXlWeFRMbkV4dWNrV0RYR2tlZ25CRG9iNDBEMjRVTlNpQ0xtTGoya09VU3lKbW0yd0ZtZFFYOTlTRkpOdm5F?oc=5"
     }
   ],
   "psikoloji": [
     {
-      "id": 4,
+      "id": 60,
       "title": "PSIKOLOJI kategorisinde yeni haberler yakında...",
       "source": "Bebek Rehberi",
-      "date": "19 Ağustos 2026",
+      "date": "20 Ağustos 2026",
       "readTime": "3 dk",
       "desc": "Bebeğinizin uyku düzenini sağlamak için karanlık ve sessiz bir ortam yaratın. Beyaz gürültü kullanmayı deneyebilirsiniz.",
       "link": "https://google.com"
@@ -45,13 +369,184 @@
   ],
   "guncel": [
     {
-      "id": 5,
-      "title": "GUNCEL kategorisinde yeni haberler yakında...",
-      "source": "Bebek Rehberi",
+      "id": 3,
+      "title": "Hoş Geldin Bebek Projesi Ailelerin Yanında",
+      "source": "Haber Milas",
+      "date": "19 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Hoş Geldin Bebek Projesi Ailelerin Yanında  Haber Milas",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejdYdzMyMmRPQUNaSEJrVHFNWnN4VzhhcGo0UXc5TXJ4VkFFWjVQRU4tbWhHeVVFbW5TMlNTYkRqczZiZTU2cVNJQzQ3UU42eHBtZFpfM0pleUFaZ2h2bTlEU1JMTldwa1UxVnBjTzU2bDBIMjQwb3ZxTWMwbXpIQ1poNHJ2V0nSAYwBQVVfeXFMTXRhMGk2WXMxb0FjOFlkX3hQM1YwNFVvc05UQ09ndEV2bzYzUWI0UXIycVplekhORUdOVFlDeGdlTV9ab2dGMVZqejBERXhseHUtamtxaHhlaW83TUNKOWlfRjdmenU5dlU5RHRsVWk3Um96QTJuS1JSVXFHdGw4NWh3bl9BbjNSMGxoUHk?oc=5"
+    },
+    {
+      "id": 15,
+      "title": "Hafta Hafta Gebelik 25. hafta",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Hafta Hafta Gebelik 25. hafta  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vXzJnTTZ1clZ4YlJza0tucUN1cF9BUjNiUFFKdy1ERGw1UmdmZmQwelEzNWVzYU0wREctQzNhME5FeWFwdXZZdlVzZk84QzJfbFlCWWJ3UWVReGxlTnN3Mg?oc=5"
+    },
+    {
+      "id": 16,
+      "title": "Kartondan Sevimli Balık I Kağıttan Yap Atölyesi",
+      "source": "Bebek.com",
+      "date": "7 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Kartondan Sevimli Balık I Kağıttan Yap Atölyesi  Bebek.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmVFVQX3lfXy1maldVR3FwSlEzbF9JQy11WjNJaFNwVGk4S0FvLV8tVllJelBDUF9RektMUExiY0g1ejVhZm5uTGdUTFB6c1hRLUJiNkFONlRMS1BfRHpmNjRZY2k3cUNfRm4xLWp6V01CSjBfRUhJUHpn?oc=5"
+    },
+    {
+      "id": 41,
+      "title": "ANNE İLE BEBEK SAĞLIĞI AÇISINDAN FAYDALARI ANLATILDI",
+      "source": "oncurtv.com",
+      "date": "17 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "ANNE İLE BEBEK SAĞLIĞI AÇISINDAN FAYDALARI ANLATILDI  oncurtv.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWkZEN3ZSLUNNdmdaUVRaaHRYLTJZZ0NfM3UyX3FkcDdQTHBoOWxtV0NEYjNGcENhUUw1MWJXXzI4VTlyN0o5eFYzUXlnRHg4STlIOEZ0QkZHRUliSWNuUHZERHM1Y0hzSFRRUUQzc3ozSHlsQ3JlQUNpZkRnY1lnZVNn0gGHAUFVX3lxTE1YWHdWVXJPa3JOY3hfUE5GMVdxbnRqaG9xQVZ1bi1JSllOejhHbHR4WG9mTmdOaFNRRDQ4UnRUdTlNUVluTkVIWGlxVk1uSVdNQU4zY2R4azZfUXZJbU1DYjl4dE9pQUVLTVhmSFhZUUtfZzNxaVo4WDZpQ1FmdU54Q0dzZmZnUQ?oc=5"
+    },
+    {
+      "id": 42,
+      "title": "GEBE VE LOHUSALARA EVDE DESTEK: EBELER SAHADA ANNE-BEBEK ...",
+      "source": "Batman Gazetesi",
       "date": "19 Ağustos 2026",
-      "readTime": "3 dk",
-      "desc": "Bebeğinizin uyku düzenini sağlamak için karanlık ve sessiz bir ortam yaratın. Beyaz gürültü kullanmayı deneyebilirsiniz.",
-      "link": "https://google.com"
+      "readTime": "1 dk",
+      "desc": "GEBE VE LOHUSALARA EVDE DESTEK: EBELER SAHADA ANNE-BEBEK SAĞLIĞI İÇİN ÇALIŞIYOR  Batman Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zRVEtYU1YN1RtTWp3VGpWVkliU01HcWxxc2NhSjhzUElVS2NEd3hKcGc5NmxmYkhZRlVVa0wyV3dwSUdUdmFlUXFNbkZWUGJOT1ExeWRZV1FWRTRCdmxCZ0ZJZ0Y4YUxfeV9latIBbEFVX3lxTE1zRVEtYU1YN1RtTWp3VGpWVkliU01HcWxxc2NhSjhzUElVS2NEd3hKcGc5NmxmYkhZRlVVa0wyV3dwSUdUdmFlUXFNbkZWUGJOT1ExeWRZV1FWRTRCdmxCZ0ZJZ0Y4YUxfeV9lag?oc=5"
+    },
+    {
+      "id": 43,
+      "title": "ANNE VE BEBEK SAĞLIĞI İÇİN ÖNEMLİ TOPLANTI",
+      "source": "demokrat32.com",
+      "date": "10 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "ANNE VE BEBEK SAĞLIĞI İÇİN ÖNEMLİ TOPLANTI  demokrat32.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ac0lDaVlRU2kxeXYwaEFHX2U4b05WNVlRaVlMOWJPSkZkTTV4SHBiaXJGTGNDaG1mUzRpWi1xM2tuR2toVUtxdHRCTlA2M3lOdC0tcEFOWXFhbExudWdEWVBRM29HMTc2SFl3U29hWGJFUGotNS0tbdIBfkFVX3lxTE9vLXk0U016S0NiakRndHRXZWljX1U5ZWo4SFM0YmhYRUgwQVBoTTg1MThCa3VXdDNYQ2prQTFVNDNDWjRtdmg0Z3ZySlVPbTcyMkZoaV9FR2RHVlNaUDNyZWRUaEszSGhheHE4dkxROVQ4N01mYjU4SHo2Ty1XZw?oc=5"
+    },
+    {
+      "id": 44,
+      "title": "Çine’de Anne ve Bebek Sağlığı İçin Sahada Çalışmalar Sürüyor",
+      "source": "Akdeniz Gazetesi",
+      "date": "13 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Çine’de Anne ve Bebek Sağlığı İçin Sahada Çalışmalar Sürüyor  Akdeniz Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGY3amxPRnF5X2JpSXQyb0IwS1RwOTRCM2c3akgtcmhSWEttQWhNNXVfb2IxeGFLbGhGckxDc1NHSnYxUGlzREZPd28yZHFFc2lTV1M1MTB1ejdmYThjVWNaNldWTl9MNmNYLUpXb2JFdXl4clhxWW9qd2M4QUE5SFZnZUx6UERyZ2J1c2FWNzlFVHRzT1E?oc=5"
+    },
+    {
+      "id": 45,
+      "title": "Milletvekili Keleş TBMM Genel Kurulu’nda Anne ve Bebek Sa...",
+      "source": "Kanal23",
+      "date": "8 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Milletvekili Keleş TBMM Genel Kurulu’nda Anne ve Bebek Sağlığına Dikkat Çekti  Kanal23",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaHhFcHBVTDE0Wkd5Z3RMY0RHN2d5RWNSZENQN2owWWY4SGdRQ1I4a0Z4aXNINU5UUWpWNUl2VlNWalNlbTVCT2k2bzlnSTBnV3hkekdaalVUdTFBc01BeXgzS3c4TVB0a2M3VVJZTElPLWRMMnhuVUY3aDNFMlhqcTBzRUZINFp1OEVDeEpxRkNZVjF3VE5nTUhSWGhsZVFjdDBGZjNVdk41Ri0xWFIwbE1LWWxNWWVwVzRLU0tHSQ?oc=5"
+    },
+    {
+      "id": 46,
+      "title": "\"Hayatın ilk anı\"na tanıklık eden ebeler, anne ve bebek s...",
+      "source": "TRT Haber",
+      "date": "22 Nisan 2026",
+      "readTime": "1 dk",
+      "desc": "\"Hayatın ilk anı\"na tanıklık eden ebeler, anne ve bebek sağlığı için özveriyle görev yapıyor  TRT...",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa01DbFpobHZFOGVNUlp6RjlDOGxfbGdueGN1eU9pTFRsSHFxdktDZWFULW5abUF1T0tFdFQyQ2lQYmtqQm1xVWl1OUh4NE90T0h5aGZnS2cyc05XS0g2N0lncGpjaGJRamRrcWZhS0M1ZTZpNHhKWmd3cEhsdEN2blR2UjFvMmM4b3pWTkMxYkJYZ3B0RzBTSkNKc1NBN2w1NDcyLWY1TG55eFluT19aNmF3cGhUZWtVb2FZR1VMRDdHcE54NjhBeWc4Zjk5aUwwOEpj?oc=5"
+    },
+    {
+      "id": 47,
+      "title": "Gaziosmanpaşa’da anne ve bebek sağlığı panelinde uzmanlar...",
+      "source": "İhlas Haber Ajansı",
+      "date": "6 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Gaziosmanpaşa’da anne ve bebek sağlığı panelinde uzmanlardan önemli tavsiyeler İhlas Haber Ajansı...",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFgzeGdmeXgxV0JFZGxZYk5uNkxicjRwSUlwd2NldlNtVW50RVpIM2NxQXBtTGVFQW00TzQ5Qy1sa0JYUmpoY3RFTVJoX0Y5OHJzdnNSTXF6UDkwV3MteG1OaDQ5RGZyaDY0V3dIbGJMNzRQT1JLR2dEZDBJNm5wNk5vYlBPRXk0dEJDdW1zMnNzNTU4Wmwxbko0RUh1UTlTclByU0t1amxIR1B3YloxaEFvUEpULUZoQUFHQmFUU0ZzTTN0dnE5MA?oc=5"
+    },
+    {
+      "id": 48,
+      "title": "Aydın Şehir Hastanesinde anne ve bebek sağlığı için anlam...",
+      "source": "Medya Gazete",
+      "date": "11 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Aydın Şehir Hastanesinde anne ve bebek sağlığı için anlamlı buluşma  Medya Gazete",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWRtZ2xXYk1FNzhRa0hXblJCLTFkaUVYRmFianV5bkgwSWhGdGRPeHJDOTFJMkNSWWhTaERpeklhZDZKbzh2TVI1QWxWTWZwdW15UllEeElQVEZUVk83RG85X0J2dUNIb0xWSF9VVERUTWlDTTVNZlUzZ2tfZmsyY1FSbVhDODFQbFBreXFkSk9sYXlVbENDc2JQN1FsNmpfa3V0RVRJb0I1YWl6YWc?oc=5"
+    },
+    {
+      "id": 49,
+      "title": "Düzce'de Anne ve Bebek Sağlığı İçin Ev Ziyaretleri Sürüyor",
+      "source": "Haberler",
+      "date": "6 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Düzce'de Anne ve Bebek Sağlığı İçin Ev Ziyaretleri Sürüyor  Haberler",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1d2d1B5b0hoOXROcDM5RE5LVTAtOFZxRUdySF93OFpyOUxkV2c0NWZFTFdMLWI3eEVlQXNrSXdZQzVVMEgtdjFpMy1GWlotdzFMSHp3V3lVWGM0N2tJNENxVlVLQjM2U2VPMG9aQzhudFZUTFU1Unk5SHllY2Q1WVBlM0MwckxZNnMxSmRpS0dhME9wcEpZ0gGUAUFVX3lxTE5FV3FMa210WVppSzBXbEhkN3NDOVQ2ckEyM1lValA0cEo3UnZ4NmlRVFRUNTdpa042d0VtMkdyNVlER3kzMzdDb0V4SVhkZ3h2VGNxMzVQRnFDTUllUExqVXlWUGpid1E4N3BFUFdRNnE5a3JXNzlZVEoxcTNGcW9xQ0JpTjE0ZnFrSVI2OTBsaXhSZ3I?oc=5"
+    },
+    {
+      "id": 50,
+      "title": "Bunları bilmeden tatile çıkmayın! O yaş grubu risk altında",
+      "source": "Hürriyet",
+      "date": "18 Temmuz 2026",
+      "readTime": "1 dk",
+      "desc": "Bunları bilmeden tatile çıkmayın! O yaş grubu risk altında  Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnBVMHBpT21kUVVrbFdHckFkSUZrQy1wY0dMdzNmQ0RsdXR0TUpPT3dXcEczaUZwelRDdWlsX2hsM0hCZ3JHRmNvRk5uN19oVkFiT1prOE1IMWZ2MmliYkdnN1VtdnZyVVBqc3JBSmp6QzlUS1didjRoUGNXdFhkT05WQ3FYNXN0cWpuRnRiM3BONlNzVC16Ti1qMjdVY3V4NDZpS2xnbVRhZw?oc=5"
+    },
+    {
+      "id": 52,
+      "title": "Emzirmenin Anne ve Bebek Sağlığına Faydaları",
+      "source": "Son Dakika",
+      "date": "3 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "Emzirmenin Anne ve Bebek Sağlığına Faydaları  Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzRldHNxeGNzdGxDN0Z6VV9vVEV4OEx3MXp4Z2Vab0pMS0lKRjBhWk16VHNwQjFfOEd2NzZYNjRkODNXOEo1SkJZUlltV1I2ZkE4dk1xbWM3aklWMkI3dnJ1Q3lHZVdXYlV5T1ZJM2F1SHJSZXBoZGhYYUR3UWgxME1KVlpROEFvLXVhZEVEX2lkVmhDbkZkbdIBlAFBVV95cUxQRWc4azMwcS1wTzNzM0Q2Z09veTZweHQyMVFmMU1FQy1mR1pIcTRVNG5FWktfbGs5RzBYdWhMVTFtUmRKWXYyWGRQa3pxeW1ITnBIbG04N2JrVjNqaTBpNFR4YXJ4Q0t2bTdXOTRCc3FKTVJ4cWFMdEFzUl9GVnl2aGp0cUZVamZnR09WWjZGQWVnbjM3?oc=5"
+    },
+    {
+      "id": 53,
+      "title": "BEBEK DOSTU SAĞLIK İÇİN ÖNEMLİ BULUŞMA",
+      "source": "akhisargozde.com",
+      "date": "11 Ağustos 2026",
+      "readTime": "1 dk",
+      "desc": "BEBEK DOSTU SAĞLIK İÇİN ÖNEMLİ BULUŞMA  akhisargozde.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50R0NqR1ZvVnFnaDdTTm83dDkyNlJjTENxOE9CVU40Tk5GS2E1YUV0NENYekhYX05EbWlxRmZGUzRMc0Q2WG9uS3RsMU5ZMHVNY0ZEVkdmQjZLaDAzSy1iMlM5S0luYUVfbVhJamRuaFNyN1MydnlsMGJYTEx3NkU?oc=5"
+    },
+    {
+      "id": 55,
+      "title": "Gaziantep Büyükşehir’den anne ve bebek sağlığı için örnek...",
+      "source": "İhlas Haber Ajansı",
+      "date": "30 Haziran 2026",
+      "readTime": "1 dk",
+      "desc": "Gaziantep Büyükşehir’den anne ve bebek sağlığı için örnek adım İhlas Haber Ajansı  İhlas Haber Aj...",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzBJWm82czhPQzF4d3hvOTFhTTlJTGZjNFVONG9Ud1NfVTJCNWhMbUJsMy1mZElaT1RObVdMczF0VG04c296QWdJUk1sY0pUWHB0LWxaNHNtVDQyTjdMd1k4Uk15a3pTcmNDVlJNWFpVVmFpOUR2SGFtSF9TTjI2cWVaTGx4dEl2M0tUcjRVcEFhZWpSbHM0Q0xiWmxpdlF2R3pyQWNnaXpRSzhtQmEyS1pXNnQ?oc=5"
+    },
+    {
+      "id": 56,
+      "title": "İstanbul'da Bebek Sağlığı Üzerine Suç Davası",
+      "source": "Son Dakika",
+      "date": "13 Temmuz 2026",
+      "readTime": "1 dk",
+      "desc": "İstanbul'da Bebek Sağlığı Üzerine Suç Davası  Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnljSk1icThuUjBndm5TVURrRmkwVml6NXlwQlBkTnllbkxERFFnY2dFVHlQSXVEbmxHR3RYUlJaX0VDUWFxY1AyV042NTdjTmt2WnRuOXhUNEU0MUw3MkFOaEtlTHIyWnFPVHQzT3JrOGQzZkNuOUw1VWRoa0xOekxuVktrSl9fN3E3MzdmT2FkTGhrdTBkcNIBlAFBVV95cUxNdWltSHhpRE54N0VuV1ZjMUo1Y3NwenM4cGE1TjFaMEVDUlZtYkNmUnplY0U5ZHFoQXJnWkFYR1B0SkRYR1ZlYUVWcUlvRERFbWMtdUxfZEl4Qkp6MWlOdW03bkxCM2dvZmhNb0RaaTZrQmFHS3dVZ1BGcDlUOEpJYXBXZkx5ZWdQUUUyYWdibDNZOFBw?oc=5"
+    },
+    {
+      "id": 57,
+      "title": "Anne ve bebekleri için resim sergisi..| Haberler",
+      "source": "Gazete Kadıköy",
+      "date": "5 Nisan 2026",
+      "readTime": "1 dk",
+      "desc": "Anne ve bebekleri için resim sergisi..| Haberler  Gazete Kadıköy",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZG9HT3pTM3J6WHdmUkVOUFJvLU1xdzF6dWIxdkl5SGY1RHh3UUcyMndMbDFJVi1fUDlwelBqNk9uSVkyeWlXdlZ1dE01NTkxWml6UmpObTZFWUJ3bGJQczRIaHNSQm94T0hMM1djQzRHZkU4Wlhta0s4TUJfbW5CNGUyb3VPb3BC?oc=5"
+    },
+    {
+      "id": 58,
+      "title": "Bebek kıyafetlerindeki sessiz tehlikeler",
+      "source": "Sabah",
+      "date": "14 Şubat 2026",
+      "readTime": "1 dk",
+      "desc": "Bebek kıyafetlerindeki sessiz tehlikeler  Sabah",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWMzNkdNLXlIT0tkazJodkpsMDltRkc2MnJNajZPOFFWUVhDc1czOHZPWFg2NHBSVDFGT2l2VlJZZk5MUkMyWnNHcDRnSHRINEV1SjdjZmVqdWZDTm1HcUJSVkoxajRMTzZiZGFabXZtRVJ3MGVseFdtS3pjR05FSDFjTUJfTmUxUXM1aGdMUdIBkgFBVV95cUxOZnJuSnBzRldYTHhPLUVkMnhTcUZyakFRMjlSQU5MbmtDR2kya0s3b1BDa0swcTJ4cHA3SnJUZWRNRWVRYl9xd3pEZmV4Q2ZNc29KLXRqMktVRi0td1l3TTNzU2ttUGpPSmJiYXFHbTZMdXlYaUlCOHB3bVItNmFOLUU3RXMtcVlyektwQWtCMGdDdw?oc=5"
+    },
+    {
+      "id": 59,
+      "title": "Anneyle bebek arasındaki en güçlü bağ: Emzirme",
+      "source": "Habertürk",
+      "date": "1 Temmuz 2026",
+      "readTime": "1 dk",
+      "desc": "Anneyle bebek arasındaki en güçlü bağ: Emzirme  Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb3RaMVRKeGNfOUpsOEhfbzdlbU5CSjk0dE9tMW1fVVo0czFnMUV6Ym5FdU1yMFVYXzFNZUlITUdqaE83V2Y4ZlZVVHdyN2M0clVSZWI1U1BWdTlyQm5kX0dQWU5XU0VqM25GbXo3REgyc2FBYzNfb2x6QU5CMERUQklWdGJFYjQ5dThpS0tKMkI2dlJXVWlPSmRVSGlHQWJOdGN0cHVjRlBrWnhkYXNVN2c3Y0V5Y1dFQTFFM1RwZHZPT19jMUtRSWpYWFh0MkpfbVltVDRjWGV6dDJsWlFfVU15Z0oySEdOQW00MENQRzFxTjNaUVYyNkpB?oc=5"
     }
   ]
 }
