@@ -1,50 +1,39 @@
 {
     "firsatlar": [
         {
-            "id": "6l75q7hi4rp8spjuwt4w",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Hepsiburada",
-            "price": "230 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "sf2823gxjz0ype5a1unwik",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "e-bebek",
-            "price": "386 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "u2qz32p2aybmx6itxvec5e",
+            "id": "merkjbsk4hsxb9emuum48",
             "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "e-bebek",
-            "price": "93 TL",
+            "store": "Civil",
+            "price": "91 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "hsekpe0rjpjn6o4uoh1s4i",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "111 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👃",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "x6k03nyzoail4yo583qa5p",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Joker",
+            "price": "6417 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "qe2tk7mq3xmz3p1ulghi6",
-            "name": "Philips Avent Antikolik Biberon 260ml",
+            "id": "3mls4jd3jje2jth6j756j6",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Joker",
+            "price": "1300 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🌡️",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "q68ld1quw4f1i2cu0fw441i",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Trendyol",
-            "price": "371 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
+            "price": "440 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👶",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
