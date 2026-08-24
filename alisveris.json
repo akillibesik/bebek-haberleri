@@ -1,50 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "saq2sgs61ijcxjohybpe66",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Civil",
-            "price": "103 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "4hf5nf94i4bq3080eiy49j",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Amazon",
-            "price": "128 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "hqznpt8b9j6i4032v3i9go",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "632 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "qu904n8omteqzfb2p3l018",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "l3wo8lo9gxqqj68n23qv",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Trendyol",
-            "price": "289 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "price": "262 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👕",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "emdvu4rg3qwun4jnqxdsvn",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "5911 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "id": "owq33m9uzzpr2ry5v2vmn",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "e-bebek",
+            "price": "87 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "rnfpn1fx6qamiz6r7a8hq",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "e-bebek",
+            "price": "4620 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "4ktk4jdh0eg4guw43ovq3",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Trendyol",
+            "price": "543 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
