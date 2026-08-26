@@ -1,40 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "90vvhgfnanlhxbw9q0sy",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Amazon",
-            "price": "1018 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🌡️",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "rpsfzjea7lnh17b3tqfdi5",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "513 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "t15zraalby7s8ieqvvk14",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Amazon",
-            "price": "563 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👶",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "mrsulbx6hp8uttgb6ponr",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Amazon",
-            "price": "107 TL",
+            "id": "g03n56u1c3kvac98v1x6f",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "331 TL",
             "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "q05x3l5ehnsx8zzl0s9ro8",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "129 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🧻",
-            "buyUrl": "https://www.amazon.com"
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "eins8ipqyxtl1c5bsxhah",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Trendyol",
+            "price": "304 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "nhjfyyeg6b89icqsi4dhb",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "117 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👃",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
