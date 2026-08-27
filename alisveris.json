@@ -1,41 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "g03n56u1c3kvac98v1x6f",
+            "id": "vc9xbb9ajnb9d8d1mux1vf",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "Hepsiburada",
+            "price": "130 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👃",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "rea8g4wfjao20c34kq135s",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "331 TL",
-            "discountBadge": "Flaş İndirim",
+            "store": "e-bebek",
+            "price": "242 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "q05x3l5ehnsx8zzl0s9ro8",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "129 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "eins8ipqyxtl1c5bsxhah",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Trendyol",
-            "price": "304 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "nhjfyyeg6b89icqsi4dhb",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "117 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👃",
             "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "si9t8ueu4omuoh2vpbfrr",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Trendyol",
+            "price": "461 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "ushggq765dnmh8qidlu86",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Civil",
+            "price": "217 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
