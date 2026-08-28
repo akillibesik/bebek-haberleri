@@ -1,42 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "vc9xbb9ajnb9d8d1mux1vf",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "130 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "rea8g4wfjao20c34kq135s",
+            "id": "zc7c3or9srgi0wuryx1st",
             "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "e-bebek",
-            "price": "242 TL",
-            "discountBadge": "Sepette %15",
+            "price": "330 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "si9t8ueu4omuoh2vpbfrr",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "qu1iumct9ulkx52v3m377",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Trendyol",
-            "price": "461 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "199 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "ushggq765dnmh8qidlu86",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "217 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
+            "id": "h3cumgvbo1lop3rskcgikc",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "120 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "c2ahwtbax0nyqdaum424ec",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Joker",
+            "price": "955 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🌡️",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "swk5cmyww2pf6gcjldxr",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Joker",
+            "price": "6735 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
