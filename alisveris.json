@@ -1,51 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "zc7c3or9srgi0wuryx1st",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "330 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "qu1iumct9ulkx52v3m377",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "9hgoyxy2v8ik9m2avzooyi",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Trendyol",
-            "price": "199 TL",
+            "price": "4793 TL",
             "discountBadge": "%30 İndirim",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "icon": "🛒",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "h3cumgvbo1lop3rskcgikc",
+            "id": "7k1ecevk9kfgfmttzlf73g",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "120 TL",
+            "store": "Civil",
+            "price": "88 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "fcdcjnsvgu4z9xal97dxtn",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Civil",
+            "price": "208 TL",
             "discountBadge": "Günün Fırsatı",
             "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "g9u6zkvina8l1lx3l1023b",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Joker",
+            "price": "378 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "c2ahwtbax0nyqdaum424ec",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Joker",
-            "price": "955 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🌡️",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "swk5cmyww2pf6gcjldxr",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "6735 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
+            "id": "osqsbb8z61a2uyky2tw5xq",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "555 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
