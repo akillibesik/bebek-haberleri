@@ -1,47 +1,48 @@
 {
     "firsatlar": [
         {
-            "id": "vgip63mur7ol0kai8hroar",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Hepsiburada",
-            "price": "4113 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "1otoebh0c48s667d7xtxn",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "116 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "8kexk5ivio6yrnugjbme9l",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Trendyol",
-            "price": "909 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "8xht0ztva1smynotsxf79h",
+            "id": "vb01n6lu3wk9adapnw5qxp",
             "name": "Bebedor Silikon Damaklı Emzik 2'li",
             "store": "e-bebek",
-            "price": "98 TL",
-            "discountBadge": "Süper Fiyat",
+            "price": "104 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "cl2y9xtyr9td10kyt6205e",
+            "id": "gctjkt51xbtfgv5heox4w6",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Trendyol",
+            "price": "468 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "👶",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "4aumwijw2yn1xj6vyspx7f",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "538 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🪑",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "i9o0q60gjeoivw37advq",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Hepsiburada",
+            "price": "213 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "j2g16rrvpta6eotcuoitzk",
             "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Amazon",
-            "price": "584 TL",
-            "discountBadge": "Süper Fiyat",
+            "price": "541 TL",
+            "discountBadge": "Sepette %20",
             "icon": "🧸",
             "buyUrl": "https://www.amazon.com"
         }
