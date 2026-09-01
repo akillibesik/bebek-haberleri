@@ -1,49 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "vb01n6lu3wk9adapnw5qxp",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "e-bebek",
-            "price": "104 TL",
+            "id": "gtn6szcesiufus8i9qao",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "Civil",
+            "price": "132 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
+            "icon": "👃",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "gctjkt51xbtfgv5heox4w6",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "468 TL",
+            "id": "mmgrvgn3jrnqup6cm22gp",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "89 TL",
             "discountBadge": "Sepette %20",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "4aumwijw2yn1xj6vyspx7f",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "nooim971ix69vyuhu9t53",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "e-bebek",
-            "price": "538 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🪑",
+            "price": "256 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "i9o0q60gjeoivw37advq",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "959m6pbdredq5qguj43w9l",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Hepsiburada",
-            "price": "213 TL",
+            "price": "503 TL",
             "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "j2g16rrvpta6eotcuoitzk",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "id": "9ms6amyi9gewl2brlbi0p",
+            "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "Amazon",
-            "price": "541 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧸",
+            "price": "316 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
             "buyUrl": "https://www.amazon.com"
         }
     ]
