@@ -1,51 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "gtn6szcesiufus8i9qao",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "132 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "mmgrvgn3jrnqup6cm22gp",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "89 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "nooim971ix69vyuhu9t53",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "256 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "959m6pbdredq5qguj43w9l",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "bm0ntgurbvt9n4hcwzktwl",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Hepsiburada",
-            "price": "503 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "4548 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🛒",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "9ms6amyi9gewl2brlbi0p",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Amazon",
-            "price": "316 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
+            "id": "3w1jxlxkpfua9sf6r39i28",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "391 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "nouqgm6oo9wn3mz6ozele",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Joker",
+            "price": "1151 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🌡️",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "hsfrmlde3uq5oguz9yr8i9",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "138 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👃",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
