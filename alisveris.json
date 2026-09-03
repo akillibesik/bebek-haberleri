@@ -1,40 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "bm0ntgurbvt9n4hcwzktwl",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Hepsiburada",
-            "price": "4548 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "b3ewzl7zcuhjk80m53azkc",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "e-bebek",
+            "price": "236 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "👕",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "3w1jxlxkpfua9sf6r39i28",
+            "id": "kg7dkvnnbtdx8h4ctwo47",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "347 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "2wbiao3i7unod51lkuifjh",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "e-bebek",
+            "price": "538 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "1kjgtfwm105kgxemry26qp",
             "name": "Carter's Organik Pamuk Tulum",
             "store": "Joker",
-            "price": "391 TL",
-            "discountBadge": "Günün Fırsatı",
+            "price": "462 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "👶",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "nouqgm6oo9wn3mz6ozele",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Joker",
-            "price": "1151 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🌡️",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "hsfrmlde3uq5oguz9yr8i9",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "138 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "t5q7bicrgpkntumip4kv6f",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "670 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
