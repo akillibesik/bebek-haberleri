@@ -1,51 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "b3ewzl7zcuhjk80m53azkc",
+            "id": "59kj166nyt2vx9t2fu4lq",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "e-bebek",
-            "price": "236 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "kg7dkvnnbtdx8h4ctwo47",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Amazon",
-            "price": "347 TL",
+            "store": "Civil",
+            "price": "285 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.amazon.com"
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "2wbiao3i7unod51lkuifjh",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "e-bebek",
-            "price": "538 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "1kjgtfwm105kgxemry26qp",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "4yj3tfqaujzih4lz8xfep",
+            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Joker",
-            "price": "462 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👶",
+            "price": "469 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🪑",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "t5q7bicrgpkntumip4kv6f",
+            "id": "chqw2h7lx94byn74fuu0x",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4301 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "hz0g2eajutpqsc5qx50gia",
             "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Trendyol",
-            "price": "670 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "store": "Hepsiburada",
+            "price": "577 TL",
+            "discountBadge": "Sepette %20",
             "icon": "🤱",
-            "buyUrl": "https://www.trendyol.com"
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
