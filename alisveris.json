@@ -1,40 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "59kj166nyt2vx9t2fu4lq",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "285 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
+            "id": "gspdlg1jjppmgemitftwu",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Trendyol",
+            "price": "196 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "4yj3tfqaujzih4lz8xfep",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "khbs26ny42hfswgjre59",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "Joker",
-            "price": "469 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🪑",
+            "price": "1341 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🌡️",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "chqw2h7lx94byn74fuu0x",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "6tqjuge1sfmzuld1me5mo",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Joker",
-            "price": "4301 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "hz0g2eajutpqsc5qx50gia",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "577 TL",
+            "price": "461 TL",
             "discountBadge": "Sepette %20",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "pxn9xmnqmz6s6ci2wvx8c",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Joker",
+            "price": "298 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "cqeg2ukn7ef0y2egwfhf1m",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "476 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
