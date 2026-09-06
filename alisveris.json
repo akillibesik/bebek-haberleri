@@ -1,51 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "gspdlg1jjppmgemitftwu",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "196 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "khbs26ny42hfswgjre59",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Joker",
-            "price": "1341 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🌡️",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "6tqjuge1sfmzuld1me5mo",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Joker",
-            "price": "461 TL",
+            "id": "4lvn3e12zw29tph8c7afr",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "262 TL",
             "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "eh4prjmm98doxaok08ln",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "99 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "8lw7n4cqxqjwi9ralr2l9",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Hepsiburada",
+            "price": "515 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "adih5lt9uj4mzuj0o8paie",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "5052 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🛒",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "pxn9xmnqmz6s6ci2wvx8c",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Joker",
-            "price": "298 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "cqeg2ukn7ef0y2egwfhf1m",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "476 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👶",
-            "buyUrl": "https://www.joker.com"
+            "id": "tnsdek3jmfajy4kgkjeq4o",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "736 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
