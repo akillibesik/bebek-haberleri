@@ -1,50 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "4lvn3e12zw29tph8c7afr",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Amazon",
-            "price": "262 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "eh4prjmm98doxaok08ln",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "id": "is0hrby2msns275iyfof",
+            "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "e-bebek",
-            "price": "99 TL",
-            "discountBadge": "%30 İndirim",
+            "price": "382 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🍼",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "8lw7n4cqxqjwi9ralr2l9",
+            "id": "8xt2qk9d97srxzedlqxrk",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Civil",
+            "price": "523 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🪑",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "en3a9tuoxvhxe5fqr9qol",
             "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Hepsiburada",
-            "price": "515 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "price": "428 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "adih5lt9uj4mzuj0o8paie",
+            "id": "naw616au9o4a4bedffbwy",
             "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Joker",
-            "price": "5052 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "price": "4494 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🛒",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "tnsdek3jmfajy4kgkjeq4o",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "id": "cc7y6n6ytogj70yhf3mx19",
+            "name": "Kraft Berlin Bebek Arabası Grey",
             "store": "Hepsiburada",
-            "price": "736 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🧸",
+            "price": "7720 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🛒",
             "buyUrl": "https://www.hepsiburada.com"
         }
     ]
