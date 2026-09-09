@@ -1,47 +1,47 @@
 {
     "firsatlar": [
         {
-            "id": "46iyrigfcwoou92eyifk0o",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "e-bebek",
-            "price": "225 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "ybzubnekhpem4rf6w1eibs",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Joker",
+            "price": "282 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "1bt28235x79ximp90nsnx",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Trendyol",
-            "price": "960 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "vzzgtlg740bmuzynohn7wh",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Joker",
+            "price": "403 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🪑",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "so7uwz59psbdulyaztaf8f",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Hepsiburada",
-            "price": "564 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "qu7mql4mmzsu1xosliw",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Amazon",
+            "price": "112 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "5ro5hsmx4a5kmr1meo2zxf",
+            "id": "pcrv5yfoli35zbv8asggb",
             "name": "Wee Baby Burun Aspiratörü",
             "store": "Civil",
-            "price": "128 TL",
-            "discountBadge": "Sepette %15",
+            "price": "146 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "👃",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "y3olgmzisbc3wb9j6a6wbq",
+            "id": "ctgpcnzegyn0gtx1thdtbx4",
             "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Hepsiburada",
-            "price": "546 TL",
-            "discountBadge": "Flaş İndirim",
+            "price": "534 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
