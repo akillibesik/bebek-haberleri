@@ -1,48 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "0lw0g5b53iw1i0uco5877e",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "6988 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "nep75f9f69pdxtqhcrj9af",
-            "name": "Philips Avent Antikolik Biberon 260ml",
+            "id": "td7gjiuq49dl1dnkgveob",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Amazon",
-            "price": "297 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
+            "price": "363 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👶",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "zi80rfa47qkywmj8acn1j",
-            "name": "Wee Baby Burun Aspiratörü",
+            "id": "b81nl3n9n8lt590er7onkp",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "e-bebek",
-            "price": "119 TL",
+            "price": "441 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "1pkyje3nccz8z7qaaf1x9o",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Civil",
+            "price": "254 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "jtmy5woonrn5amuystz7ol",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "608 TL",
             "discountBadge": "Sepette %15",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "3pgbzuz82qc6k3phwb4pqq",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "e-bebek",
-            "price": "1038 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "7feq1htsi4ahtjdwa9prun",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "grukcjdge19rtbodpsunzl",
+            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Joker",
-            "price": "497 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👶",
+            "price": "515 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🪑",
             "buyUrl": "https://www.joker.com"
         }
     ]
