@@ -1,50 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "td7gjiuq49dl1dnkgveob",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Amazon",
-            "price": "363 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👶",
-            "buyUrl": "https://www.amazon.com"
+            "id": "hb0d9h07bhefqursgeasdr",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Hepsiburada",
+            "price": "469 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🪑",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "b81nl3n9n8lt590er7onkp",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "qe4gqq918j1yrka4z7gj9",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "e-bebek",
-            "price": "441 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "267 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👕",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "1pkyje3nccz8z7qaaf1x9o",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "254 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "jtmy5woonrn5amuystz7ol",
-            "name": "Lansinoh Manuel Göğüs Pompası",
+            "id": "cxnb0nm5oidmo1b2zv9c",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Trendyol",
-            "price": "608 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🤱",
+            "price": "5014 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🛒",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "grukcjdge19rtbodpsunzl",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Joker",
-            "price": "515 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.joker.com"
+            "id": "g87eth4fdyip8dpe8p1mgk",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Trendyol",
+            "price": "5699 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🛒",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
