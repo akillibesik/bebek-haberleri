@@ -1,40 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "hb0d9h07bhefqursgeasdr",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "j2g8m9wuelo2fyt3slqm5c",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Hepsiburada",
-            "price": "469 TL",
+            "price": "647 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "🪑",
+            "icon": "🧸",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "qe4gqq918j1yrka4z7gj9",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "gpu180nhmlv7fqfh8vk7u",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "e-bebek",
-            "price": "267 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
+            "price": "93 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "cxnb0nm5oidmo1b2zv9c",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Trendyol",
-            "price": "5014 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "jl2mz68ps3ldtbry007x",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Joker",
+            "price": "1290 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🌡️",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "g87eth4fdyip8dpe8p1mgk",
+            "id": "ofcsi5aduqzimwpxq2it",
             "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Trendyol",
-            "price": "5699 TL",
-            "discountBadge": "Sepette %15",
+            "store": "Hepsiburada",
+            "price": "7493 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
