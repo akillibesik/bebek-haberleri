@@ -1,51 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "4z83jre4zvt5c9qvcacq6q",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "210 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "au44idmhlvqyw0y60s0xeb",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "111 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "idqq2k96g24vs9uhth31o",
+            "id": "r78av4n9o88e0bv6mk6mp",
             "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "7100 TL",
-            "discountBadge": "%30 İndirim",
+            "store": "Hepsiburada",
+            "price": "6183 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "oqj0vbupd4gbsot4sgl3e",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "440 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "au5rgni1wxb6jjrv37hhs7",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Hepsiburada",
+            "price": "491 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🤱",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "vwytmouw6ble2jw70aysr",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "344 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "q21kkfdp1z8fumsre5b06p",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "94 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "tycqph9x33vrd57hjflg",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Civil",
+            "price": "408 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🪑",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
