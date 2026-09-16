@@ -1,38 +1,39 @@
 {
     "firsatlar": [
         {
-            "id": "r78av4n9o88e0bv6mk6mp",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "6183 TL",
+            "id": "cjhgxpsphc6y9prtjehyh",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4323 TL",
             "discountBadge": "Süper Fiyat",
             "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "au5rgni1wxb6jjrv37hhs7",
-            "name": "Lansinoh Manuel Göğüs Pompası",
+            "id": "pmskf46jm65lvpkxsqr9",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "280 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "pj7n5jfsg60l1biftv2jk9",
+            "name": "Wee Baby Burun Aspiratörü",
             "store": "Hepsiburada",
-            "price": "491 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🤱",
+            "price": "110 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "👃",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "q21kkfdp1z8fumsre5b06p",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "94 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "tycqph9x33vrd57hjflg",
+            "id": "bdx5umujp647swb9w0fxlt",
             "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Civil",
-            "price": "408 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "price": "370 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🪑",
             "buyUrl": "https://www.civil.com"
         }
