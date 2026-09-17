@@ -1,41 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "cjhgxpsphc6y9prtjehyh",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "dx1sb8j93mm777q9tslsr",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Joker",
-            "price": "4323 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
+            "price": "644 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧸",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "pmskf46jm65lvpkxsqr9",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "3cib80i6tzboqw5pwkrbq",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Amazon",
-            "price": "280 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "price": "495 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👶",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "pj7n5jfsg60l1biftv2jk9",
+            "id": "iiy9uwm2yjqvw37ntznzv",
             "name": "Wee Baby Burun Aspiratörü",
             "store": "Hepsiburada",
-            "price": "110 TL",
-            "discountBadge": "Sepette %20",
+            "price": "117 TL",
+            "discountBadge": "Sepette %15",
             "icon": "👃",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "bdx5umujp647swb9w0fxlt",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Civil",
-            "price": "370 TL",
+            "id": "f5klcrhe9lh6xvjb2uzx",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "186 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "🪑",
-            "buyUrl": "https://www.civil.com"
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "krltbo1gh8d4r2up8iz8bq",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Joker",
+            "price": "371 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
