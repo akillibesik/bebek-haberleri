@@ -1,42 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "rb6l8fk5ssdjg10wbazbi",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "nvqfduwic9kxpaz3c0mkxr",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Trendyol",
-            "price": "318 TL",
-            "discountBadge": "Sepette %20",
+            "price": "439 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "vkbadyvtnu84yapjatt7un",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "132 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👃",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "54v7730yzj6vipvlj21eab",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "wj8cghdpmj8g7qwuit8zg",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Amazon",
-            "price": "475 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "👶",
+            "price": "548 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧸",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "rnj2ku0x1q8wh1sfl9gch",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "tbjuzxujx1prudpwnqid",
+            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Hepsiburada",
-            "price": "451 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "488 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🪑",
             "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "tbloct1atflf0ii8gu7pz",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "452 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
