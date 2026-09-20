@@ -1,41 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "nvqfduwic9kxpaz3c0mkxr",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Trendyol",
-            "price": "439 TL",
-            "discountBadge": "Flaş İndirim",
+            "id": "q8dtotwwgm97rfm4fj53h9",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "76 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "wj8cghdpmj8g7qwuit8zg",
+            "id": "aaex3znpc5vk4fxmeoe28",
             "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Amazon",
-            "price": "548 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "tbjuzxujx1prudpwnqid",
-            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Hepsiburada",
-            "price": "488 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🪑",
+            "price": "676 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧸",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "tbloct1atflf0ii8gu7pz",
+            "id": "n9ktswd1icc7j795o17a",
             "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "452 TL",
-            "discountBadge": "Sepette %20",
+            "store": "Trendyol",
+            "price": "541 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "👶",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "cxp3w2blnqs6p2fwf7fhzx",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "429 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🪑",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
