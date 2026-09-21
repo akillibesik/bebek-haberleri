@@ -1,40 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "q8dtotwwgm97rfm4fj53h9",
+            "id": "6huogdq4du85ze660slmi5",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Trendyol",
+            "price": "637 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧸",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "j56ujdg7ybqon8oo03w9m",
             "name": "Bebedor Silikon Damaklı Emzik 2'li",
             "store": "Civil",
-            "price": "76 TL",
-            "discountBadge": "%30 İndirim",
+            "price": "87 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "aaex3znpc5vk4fxmeoe28",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Hepsiburada",
-            "price": "676 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "dluge0we4hmj5x8ppbii2q",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "279 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "n9ktswd1icc7j795o17a",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "3wxxdw9qyxhxsf4oo9sydo",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Trendyol",
-            "price": "541 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👶",
+            "price": "410 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "cxp3w2blnqs6p2fwf7fhzx",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "429 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "bm3wnyyyfp18p5kxhazcq",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "613 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
