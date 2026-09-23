@@ -1,7 +1,17 @@
 {
     "firsatlar": [
         {
-            "id": "zxhc5xf31o9y8fscb3m4k",
+            "id": "7fnp5g1434s5ydtnbtq95e",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "318 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "1u1lws7e18x3cpwgy0dbex",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "e-bebek",
             "price": "119 TL",
@@ -10,31 +20,21 @@
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "mq99odpk7rsm18a6k5t50a",
+            "id": "1as902h7q1r2r9m265jdey",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "137 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👃",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "k1yutevn8g0u97th5o07qr",
             "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "662 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "dsuz3v9o98ltrjsa6tclad",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Hepsiburada",
-            "price": "410 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "qh5nm6cpodcfrdfwwus77q",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "Trendyol",
-            "price": "1082 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🌡️",
+            "price": "573 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🤱",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
