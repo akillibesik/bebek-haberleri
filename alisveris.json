@@ -1,41 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "7fnp5g1434s5ydtnbtq95e",
+            "id": "sbqh0le2jhlacie70b91x",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4015 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "an3vg86qc4m0nbcgu4uc94h",
             "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Amazon",
-            "price": "318 TL",
-            "discountBadge": "Sepette %20",
+            "price": "306 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "1u1lws7e18x3cpwgy0dbex",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "e-bebek",
-            "price": "119 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "1as902h7q1r2r9m265jdey",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "137 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "k1yutevn8g0u97th5o07qr",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Trendyol",
-            "price": "573 TL",
+            "id": "ntu44p3m3ma7tu3cl558xi",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Joker",
+            "price": "522 TL",
             "discountBadge": "Sepette %20",
-            "icon": "🤱",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "qy70ojvd6bcb17dqgk11u",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "75 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🍼",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
