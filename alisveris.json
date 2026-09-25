@@ -1,41 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "sbqh0le2jhlacie70b91x",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Joker",
-            "price": "4015 TL",
+            "id": "vjdhnfryyr7y7em4sk73j",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "e-bebek",
+            "price": "215 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👕",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "r86d0p9aqhoaexujtgqebo",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "e-bebek",
+            "price": "174 TL",
             "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "an3vg86qc4m0nbcgu4uc94h",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Amazon",
-            "price": "306 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.amazon.com"
+            "id": "zs4xf4nmdlikmge0g17yf",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "Hepsiburada",
+            "price": "133 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👃",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "ntu44p3m3ma7tu3cl558xi",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Joker",
-            "price": "522 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "qy70ojvd6bcb17dqgk11u",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "id": "ljhriff3xlnjbnyvaqc2sc",
+            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Civil",
-            "price": "75 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
+            "price": "488 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🪑",
             "buyUrl": "https://www.civil.com"
         }
     ]
