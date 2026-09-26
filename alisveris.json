@@ -1,41 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "vjdhnfryyr7y7em4sk73j",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "e-bebek",
-            "price": "215 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "r86d0p9aqhoaexujtgqebo",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "e-bebek",
-            "price": "174 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "zs4xf4nmdlikmge0g17yf",
-            "name": "Wee Baby Burun Aspiratörü",
+            "id": "07q7jj7taqr7m4f38rsvb7o",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Hepsiburada",
-            "price": "133 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👃",
+            "price": "717 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧸",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "ljhriff3xlnjbnyvaqc2sc",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Civil",
-            "price": "488 TL",
+            "id": "qqopmvozkw1frmxa4sfm1",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "e-bebek",
+            "price": "104 TL",
             "discountBadge": "Süper Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.civil.com"
+            "icon": "🧻",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "tq3q11a959nhdsuqgkcjkg",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "527 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "k60ax7lqsoszas5v9o9hc",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Hepsiburada",
+            "price": "406 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "z15j3ikycuw435dh4l6x",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "72 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
