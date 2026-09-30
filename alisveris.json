@@ -1,50 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "mf23ame8qugwm13xlpsrd",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "338 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "n3j9qr3j4kfiswtvdgi6c",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Amazon",
-            "price": "712 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🧸",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "60uhk1wqaan72r6yf57109",
+            "id": "fd0kle0a28murtqdiibpon",
             "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Joker",
-            "price": "352 TL",
-            "discountBadge": "%30 İndirim",
+            "price": "520 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🪑",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "dgwnvsbjthaimewtihk4v",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "96 TL",
+            "id": "bscwa3ifpf9g6q7xrr2fgg",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4084 TL",
             "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "ytmqpj5asjrq0xuyvbje",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Amazon",
+            "price": "1339 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🌡️",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "j1xwcr0yjidhhgwkohp1sq",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "566 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "2zqb2fw10vgekdhsxzb3z",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Joker",
+            "price": "510 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧸",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "bepn013j2bn343gmfnzcs",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "571 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
