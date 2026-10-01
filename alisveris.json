@@ -1,49 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "fd0kle0a28murtqdiibpon",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Joker",
-            "price": "520 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🪑",
-            "buyUrl": "https://www.joker.com"
+            "id": "hk89596vs6ders6xrxgivd",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Hepsiburada",
+            "price": "567 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🤱",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "bscwa3ifpf9g6q7xrr2fgg",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Joker",
-            "price": "4084 TL",
-            "discountBadge": "Flaş İndirim",
+            "id": "s2krbrgylt3s6dh8tf8gn",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Hepsiburada",
+            "price": "6740 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "ytmqpj5asjrq0xuyvbje",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Amazon",
-            "price": "1339 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🌡️",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "2zqb2fw10vgekdhsxzb3z",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Joker",
-            "price": "510 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧸",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "bepn013j2bn343gmfnzcs",
+            "id": "ng7s0sv2kh8qlytfv1ihj",
             "name": "Carter's Organik Pamuk Tulum",
-            "store": "Amazon",
-            "price": "571 TL",
-            "discountBadge": "Süper Fiyat",
+            "store": "Trendyol",
+            "price": "475 TL",
+            "discountBadge": "Sepette %15",
             "icon": "👶",
-            "buyUrl": "https://www.amazon.com"
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "l3860ts2g7m5vt8owa3w9p",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "107 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
