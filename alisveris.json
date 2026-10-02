@@ -1,40 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "hk89596vs6ders6xrxgivd",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "567 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "s2krbrgylt3s6dh8tf8gn",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "6740 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "ng7s0sv2kh8qlytfv1ihj",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "475 TL",
+            "id": "hw3b6x8iaym82id4y5e2an",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "120 TL",
             "discountBadge": "Sepette %15",
-            "icon": "👶",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "yi9at22p99gdq2308o4rak",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Trendyol",
+            "price": "642 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧸",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "l3860ts2g7m5vt8owa3w9p",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "107 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
+            "id": "28vffgkjk36afc5xbg93a",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "e-bebek",
+            "price": "496 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🤱",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "fmr7wy5hgnnqf7k1ldigki",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "71 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "2pqs0p5cb1981omubchnwq",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Trendyol",
+            "price": "478 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👶",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
