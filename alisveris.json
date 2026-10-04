@@ -1,40 +1,52 @@
 {
     "firsatlar": [
         {
-            "id": "kvueufxgkngbcuwwrvnhjt",
-            "name": "Kraft Berlin Bebek Arabası Grey",
+            "id": "oob6c6tqxzi7oazhwthz2a",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Trendyol",
-            "price": "6172 TL",
+            "price": "283 TL",
             "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "aa7w894xfoestvuyq6pq8c",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "567 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "4nrd4gk3hdhzh4m945tbgg",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "81 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "wfulc7n1uopbnmyqnq7z2g",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "sq8db3xukuqg4nriu11979",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "e-bebek",
+            "price": "380 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "d0qt3v5xqm9qfmtmszfevo",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Hepsiburada",
-            "price": "479 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🪑",
+            "price": "149 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "5in679cbbojiqc98uwde49",
+            "id": "2t0857sfdliuvup1awmnj",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "e-bebek",
-            "price": "85 TL",
-            "discountBadge": "Günün Fırsatı",
+            "store": "Amazon",
+            "price": "120 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🧻",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
