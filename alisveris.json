@@ -1,50 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "k0zsfymrhdjatnq2t2too",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "e-bebek",
-            "price": "436 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "y7a387m1sblqjcb87xsih",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "245 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "wjdk9go6somdgbotw7gh4h",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "e-bebek",
-            "price": "296 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "46apt93t7w5jvq6ti0dk",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "453 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "f44ain7at05s7z2h6nwf0a",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Trendyol",
-            "price": "5072 TL",
+            "id": "axsgs685y9459x09c75bcv",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "116 TL",
             "discountBadge": "Sepette %15",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "fghitvtsqopv1x00f9rvoa",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "314 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "g49sgpvs3vo15p2lvz92ur",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Amazon",
+            "price": "888 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🌡️",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "cfhsvlgyz3j4nca3cjj30t",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Joker",
+            "price": "623 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧸",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
