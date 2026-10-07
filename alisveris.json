@@ -1,41 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "axsgs685y9459x09c75bcv",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "id": "tdh5wzb5av8hjfrr2qomkk",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "276 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "vlptvzy9c7w4rqkic5k7b",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Joker",
+            "price": "517 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "hofhmxo1etvhmm1u6rnmdu",
+            "name": "Wee Baby Burun Aspiratörü",
             "store": "Civil",
-            "price": "116 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🧻",
+            "price": "137 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👃",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "fghitvtsqopv1x00f9rvoa",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "314 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "g49sgpvs3vo15p2lvz92ur",
+            "id": "b0kft92l9582jmx8gtqok1",
             "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Amazon",
-            "price": "888 TL",
+            "store": "Trendyol",
+            "price": "1291 TL",
             "discountBadge": "Sepette %15",
             "icon": "🌡️",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "cfhsvlgyz3j4nca3cjj30t",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Joker",
-            "price": "623 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧸",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
