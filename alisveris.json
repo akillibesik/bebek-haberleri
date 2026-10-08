@@ -1,42 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "tdh5wzb5av8hjfrr2qomkk",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "jsh6jp5g0csem00pfdeo0u",
+            "name": "Kraft Berlin Bebek Arabası Grey",
             "store": "Trendyol",
-            "price": "276 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "price": "6002 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🛒",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "vlptvzy9c7w4rqkic5k7b",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "t6j7ps3o5zfb299ec5gjh",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Hepsiburada",
+            "price": "4632 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "5ihsr2s53sc2z6mlnwjmk2",
+            "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "Joker",
-            "price": "517 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "499 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🪑",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "hofhmxo1etvhmm1u6rnmdu",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "137 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "b0kft92l9582jmx8gtqok1",
+            "id": "lkr0rx5ki1wnouh5turcb",
             "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "Trendyol",
-            "price": "1291 TL",
-            "discountBadge": "Sepette %15",
+            "price": "1205 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🌡️",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "iyd9j76mtfin3pj1ym09n",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "e-bebek",
+            "price": "432 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
