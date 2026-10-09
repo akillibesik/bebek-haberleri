@@ -1,50 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "jsh6jp5g0csem00pfdeo0u",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Trendyol",
-            "price": "6002 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "lws11wmr43hcc8keylcad",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "81 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "t6j7ps3o5zfb299ec5gjh",
+            "id": "k7ngk852rmv39wcprs7dl",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "88 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "1b4mbm6wddxpqm0vvfaukc",
             "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Hepsiburada",
-            "price": "4632 TL",
-            "discountBadge": "%30 İndirim",
+            "price": "4852 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🛒",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "5ihsr2s53sc2z6mlnwjmk2",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Joker",
-            "price": "499 TL",
+            "id": "lkjdkkygf8lyqqy12u08z",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "Hepsiburada",
+            "price": "119 TL",
             "discountBadge": "Flaş İndirim",
-            "icon": "🪑",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "lkr0rx5ki1wnouh5turcb",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Trendyol",
-            "price": "1205 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "iyd9j76mtfin3pj1ym09n",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "e-bebek",
-            "price": "432 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
+            "icon": "👃",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
