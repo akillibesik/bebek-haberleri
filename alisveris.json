@@ -1,40 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "lws11wmr43hcc8keylcad",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "81 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "k7ngk852rmv39wcprs7dl",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "88 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "1b4mbm6wddxpqm0vvfaukc",
+            "id": "g5eir3pgkyo8v7425fr2b5",
             "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Hepsiburada",
-            "price": "4852 TL",
-            "discountBadge": "Flaş İndirim",
+            "price": "4083 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🛒",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "lkjdkkygf8lyqqy12u08z",
+            "id": "2ff8q7ruors8z7giru1lzd",
             "name": "Wee Baby Burun Aspiratörü",
             "store": "Hepsiburada",
-            "price": "119 TL",
-            "discountBadge": "Flaş İndirim",
+            "price": "144 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "👃",
             "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "yjbtwty44y8uizd3wzhqe",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Hepsiburada",
+            "price": "482 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🤱",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "gqn2wvxu4khd59higwpbvf",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "584 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "fij8uyfmskuhmbxh6a0rxd",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "373 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🪑",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
