@@ -1,41 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "13rf6kdmor2q5unz6rca9",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "292 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "ce95vqcw9eiemedb7pwga",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "94 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "7qy07dnq3gvm3ouxa57cs8",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "id": "eggehfb4hsssrc3q3hlyv",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Trendyol",
-            "price": "742 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧸",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "lxff6wr976q3xb5h5ol6bv",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "138 TL",
+            "price": "537 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "hn80n1wf1q5xng2g3168m8",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "164 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "id": "lrlqqcb1pi39ts1p3jzq5",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Amazon",
+            "price": "110 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "mai614wjvgmwwo372wyu3d",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Trendyol",
+            "price": "7112 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "ml8an4dxzn9j5jmdnf00nn",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "e-bebek",
+            "price": "1030 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🌡️",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
