@@ -1,50 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "ce95vqcw9eiemedb7pwga",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "94 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
+            "id": "a7fghpiaijvfzohea0fzs",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "671 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "eggehfb4hsssrc3q3hlyv",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "3nczcvcxl856tzu1gxdeh",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Trendyol",
-            "price": "537 TL",
-            "discountBadge": "Günün Fırsatı",
+            "price": "321 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "inyfmixgjdrqw43e2r1v",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "e-bebek",
+            "price": "298 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "lt31b3yiu4dqh750a0sie",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Hepsiburada",
+            "price": "460 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "lrlqqcb1pi39ts1p3jzq5",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Amazon",
-            "price": "110 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "mai614wjvgmwwo372wyu3d",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Trendyol",
-            "price": "7112 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "ml8an4dxzn9j5jmdnf00nn",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "e-bebek",
-            "price": "1030 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🌡️",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
