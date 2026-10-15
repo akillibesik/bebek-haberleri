@@ -1,42 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "a7fghpiaijvfzohea0fzs",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Trendyol",
-            "price": "671 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🤱",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "su5uc14y3hrh0y3pjvjt97",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Joker",
+            "price": "7447 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "3nczcvcxl856tzu1gxdeh",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "321 TL",
+            "id": "gw34nbphjirlvr4gn5hdq",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "110 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "cuofr5699rs4npud9boxa2",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4038 TL",
             "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "inyfmixgjdrqw43e2r1v",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "e-bebek",
-            "price": "298 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "lt31b3yiu4dqh750a0sie",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Hepsiburada",
-            "price": "460 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "m8hpi3fbuwoo8013gjpf9n",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Civil",
+            "price": "218 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
