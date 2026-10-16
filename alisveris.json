@@ -1,41 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "su5uc14y3hrh0y3pjvjt97",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "7447 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "gw34nbphjirlvr4gn5hdq",
+            "id": "1h3ddkw0ss8nlu4vis149a",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "110 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "cuofr5699rs4npud9boxa2",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Joker",
-            "price": "4038 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
+            "price": "97 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "m8hpi3fbuwoo8013gjpf9n",
+            "id": "oa64jkhl133qtelxa1f7i",
             "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "218 TL",
-            "discountBadge": "Sepette %20",
+            "store": "Trendyol",
+            "price": "146 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🧻",
             "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "humlh4f9xwq246skhkdn0a",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Trendyol",
+            "price": "4758 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🛒",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "vqd458gf7bdr0hzp53oe4",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "e-bebek",
+            "price": "1360 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🌡️",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "1dew3fs2t8nvexbltp9omh",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "88 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
