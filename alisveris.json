@@ -1,50 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "1h3ddkw0ss8nlu4vis149a",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "97 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "oa64jkhl133qtelxa1f7i",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "146 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "humlh4f9xwq246skhkdn0a",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Trendyol",
-            "price": "4758 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "vqd458gf7bdr0hzp53oe4",
+            "id": "7bov39l72gtgs9yhi89jvk",
             "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "e-bebek",
-            "price": "1360 TL",
-            "discountBadge": "Flaş İndirim",
+            "price": "1231 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🌡️",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "1dew3fs2t8nvexbltp9omh",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "88 TL",
+            "id": "eapbxf0y3gmw6ljgt90mvc",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "116 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "4akiot2syfk5c2qthpbird",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Hepsiburada",
+            "price": "209 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "ibuto6zqhjdvf59f3zviz",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Trendyol",
+            "price": "4705 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "je49h8e68jjelqzhhlrbg9",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Joker",
+            "price": "658 TL",
             "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
+            "icon": "🧸",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
