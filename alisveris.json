@@ -1,41 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "wwqfk6qiqhnhdiqmdh23be",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "89 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
+            "id": "vv89dvhxtvszvzz9x5osp",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "292 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "4gvrw70tyy5vd2l8bw1u7",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "i2n4blyy9vddoad7d5v7",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Amazon",
+            "price": "587 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧸",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "t5dn967x0resbmk8dj93q",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "e-bebek",
-            "price": "165 TL",
-            "discountBadge": "Süper Fiyat",
+            "price": "102 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "2bavzd1avjuj3qudi0lwdf",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "146 TL",
+            "id": "2knd0p9futcs19yqet5pb8",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "e-bebek",
+            "price": "186 TL",
             "discountBadge": "Süper Fiyat",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "jdyt0vot17okz80o90djnb",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Trendyol",
-            "price": "391 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "👕",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
