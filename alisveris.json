@@ -1,49 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "v9o1f7j4ge3gtllj6pra9",
+            "id": "7s1zqpdx0as2uiib0yd4u9",
             "name": "Kraft Berlin Bebek Arabası Grey",
             "store": "Joker",
-            "price": "7075 TL",
+            "price": "7194 TL",
             "discountBadge": "Sepette %20",
             "icon": "🛒",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "651vd6ik4upl5bbv9q8hh",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "j3ciil71ail79ljyo6ujt",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Civil",
-            "price": "250 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
+            "price": "201 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "kgihp99hqk9z00ncsazdb",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "khzcx5tnj4yypzzocf5g8",
+            "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "Joker",
-            "price": "4785 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
+            "price": "338 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🍼",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "2lghbbznygoul44i1zp7g",
-            "name": "Lansinoh Manuel Göğüs Pompası",
+            "id": "gunnvdfk8afh7pt6vzh78",
+            "name": "Wee Baby Burun Aspiratörü",
             "store": "Hepsiburada",
-            "price": "569 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🤱",
+            "price": "109 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👃",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "ddaydc952rddfrsb33y8df",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Trendyol",
-            "price": "281 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "q1p6vzdkn1g6rkiicuiwzm",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Civil",
+            "price": "243 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
