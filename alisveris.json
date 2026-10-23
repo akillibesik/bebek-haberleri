@@ -1,50 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "7s1zqpdx0as2uiib0yd4u9",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "7194 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "j3ciil71ail79ljyo6ujt",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "201 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "id": "x2pbpf7sb8iav1eh6hkh",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "e-bebek",
+            "price": "86 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "khzcx5tnj4yypzzocf5g8",
+            "id": "g64ks0iquf2znauwaw6xu",
             "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Joker",
-            "price": "338 TL",
-            "discountBadge": "Günün Fırsatı",
+            "store": "Amazon",
+            "price": "389 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🍼",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "gunnvdfk8afh7pt6vzh78",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "109 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👃",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "q1p6vzdkn1g6rkiicuiwzm",
+            "id": "3lzjz59lx6nk37bas8911e",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Civil",
-            "price": "243 TL",
-            "discountBadge": "Süper Fiyat",
+            "price": "255 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "👕",
             "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "9l6lqgpcinrney4h4wc7r",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "e-bebek",
+            "price": "214 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
