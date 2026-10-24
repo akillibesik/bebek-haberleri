@@ -1,40 +1,48 @@
 {
     "firsatlar": [
         {
-            "id": "x2pbpf7sb8iav1eh6hkh",
+            "id": "4wfjo01imo8a047eyn739b",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "e-bebek",
-            "price": "86 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "g64ks0iquf2znauwaw6xu",
-            "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "Amazon",
-            "price": "389 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
+            "price": "107 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧻",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "3lzjz59lx6nk37bas8911e",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "255 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
+            "id": "kqvvrpbtqp3nwfx0gcv34",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "604 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "9l6lqgpcinrney4h4wc7r",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "tco36jb66wycsggyescd",
+            "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "e-bebek",
-            "price": "214 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "price": "417 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "cx44j0i2ai6a5q2zvlnfsd",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Joker",
+            "price": "503 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🪑",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "9i5a4j9rtdlvs131afpjo",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "108 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👃",
             "buyUrl": "https://www.ebebek.com"
         }
     ]
