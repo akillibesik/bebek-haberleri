@@ -1,49 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "4wfjo01imo8a047eyn739b",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Amazon",
-            "price": "107 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "kqvvrpbtqp3nwfx0gcv34",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Trendyol",
-            "price": "604 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🤱",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "tco36jb66wycsggyescd",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "e-bebek",
-            "price": "417 TL",
-            "discountBadge": "Sepette %15",
+            "id": "5mq5bq5pqluwcg7rgkvra8",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "84 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "cx44j0i2ai6a5q2zvlnfsd",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "hv10m5z1lev4y18ewmtew",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "Joker",
-            "price": "503 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🪑",
+            "price": "114 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧻",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "9i5a4j9rtdlvs131afpjo",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "108 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
+            "id": "pvdgweaoz15xu7u5fgrdm",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Hepsiburada",
+            "price": "144 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "yel13qosaonwap0nf78pr",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Joker",
+            "price": "542 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "wsu0ck6a7ocynrtqv8ud5",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Trendyol",
+            "price": "379 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
