@@ -1,50 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "ponf68ybckq6kd53ou2hvn",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "brr6kskzmlwxuu80bz2a0a",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Trendyol",
-            "price": "200 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "gx5it33flh69bd5t9ygrtq",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "e-bebek",
-            "price": "515 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🤱",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "9rlggh452obrf8iadts23",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Trendyol",
-            "price": "4304 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "fh058oc83znxsn88inrire",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "e-bebek",
-            "price": "126 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👃",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "oux33vxe09bqzpn8jhdb",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "187 TL",
+            "price": "714 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👕",
+            "icon": "🧸",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "vozflds76h8675ihctiga",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Amazon",
+            "price": "354 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "41jtlzrsjnexaeg8vgde6d",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Civil",
+            "price": "376 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🪑",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "xfyxgzu6d19vwdrdk63pxf",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "567 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
