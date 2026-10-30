@@ -1,40 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "ea67pn7lkda0u7enycskp",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Civil",
-            "price": "378 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.civil.com"
+            "id": "9k3wogy46ok1t3gcbdin51",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "491 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "pjrhczpdknk2ldgrk8h9j2",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "305 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "g6wy1i9fxomon7j00vbwjc",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "219 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "javhfbx3bifr9i9c0dq2r9",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Joker",
-            "price": "335 TL",
+            "id": "6e899ypzl93dtc0t12m0a",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Hepsiburada",
+            "price": "337 TL",
             "discountBadge": "Sepette %20",
             "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "jncu3d00zsk05oads79s8",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "79 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "fzgmcurijcsn4ejwlb43n",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "472 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🪑",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "ivdkold49y9m2ed9jna60q",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Joker",
+            "price": "520 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.joker.com"
         }
     ]
