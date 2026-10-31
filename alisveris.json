@@ -1,51 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "9k3wogy46ok1t3gcbdin51",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Amazon",
-            "price": "491 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "6e899ypzl93dtc0t12m0a",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "b5mr50nx1bc0yjsfwxkw27o",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
             "store": "Hepsiburada",
-            "price": "337 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "price": "5178 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🛒",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "jncu3d00zsk05oads79s8",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
-            "price": "79 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "fzgmcurijcsn4ejwlb43n",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "qmg3y5wuzho7f4dnn34gye",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "e-bebek",
-            "price": "472 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🪑",
+            "price": "221 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "ivdkold49y9m2ed9jna60q",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Joker",
-            "price": "520 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "id": "gnqobbs9arbcupjiu4y6an",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "101 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "un36rm1kptqj4bl4h38lgp",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Trendyol",
+            "price": "516 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
