@@ -1,41 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "b5mr50nx1bc0yjsfwxkw27o",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Hepsiburada",
-            "price": "5178 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "u56kchg8wg953dpmr6bg4c",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "97 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "qmg3y5wuzho7f4dnn34gye",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "221 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "gnqobbs9arbcupjiu4y6an",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "id": "z3jsgri84ff4cyj77r4gi",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
             "store": "Civil",
-            "price": "101 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
+            "price": "210 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👕",
             "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "un36rm1kptqj4bl4h38lgp",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "516 TL",
+            "id": "t61ra2f0vihunx13jiioe",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "88 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "mam5p90scmgfvq45u23oos",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "409 TL",
             "discountBadge": "En Ucuz Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🪑",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "2glbijy96cug8pjw6t7i4",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Civil",
+            "price": "197 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
