@@ -1,49 +1,48 @@
 {
     "firsatlar": [
         {
-            "id": "u56kchg8wg953dpmr6bg4c",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "97 TL",
+            "id": "chpmjzidmfczi786ftovs",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "309 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "lpzrrob036ffoznfdy15l",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "Hepsiburada",
+            "price": "91 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
+            "icon": "👃",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "v8viw4toh0ocf0c0r8qekq",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4455 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🛒",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "z3jsgri84ff4cyj77r4gi",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "210 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
+            "id": "rh9vlkw2wghnqofxk7vyw",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Hepsiburada",
+            "price": "5572 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "t61ra2f0vihunx13jiioe",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Amazon",
+            "id": "7oqu7p9yrw6o6syubugw6n",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
             "price": "88 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "mam5p90scmgfvq45u23oos",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "e-bebek",
-            "price": "409 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "2glbijy96cug8pjw6t7i4",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "197 TL",
-            "discountBadge": "En Ucuz Fiyat",
             "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.civil.com"
         }
     ]
