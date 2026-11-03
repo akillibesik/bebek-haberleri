@@ -1,49 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "chpmjzidmfczi786ftovs",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "bgbnqoe8uml96x3nmoa7i",
+            "name": "Sleepy Natural Islak Mendil 12'li",
             "store": "Trendyol",
-            "price": "309 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👕",
+            "price": "162 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "lpzrrob036ffoznfdy15l",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "91 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "y48uzuz1hs5esbki12xeu",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Trendyol",
+            "price": "402 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "v8viw4toh0ocf0c0r8qekq",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "id": "kgqj0vp4fcrenaz5y75c7",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "Joker",
-            "price": "4455 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
+            "price": "86 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "rh9vlkw2wghnqofxk7vyw",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Hepsiburada",
-            "price": "5572 TL",
-            "discountBadge": "Sepette %20",
+            "id": "qwkl59jdyexf0lojveus9",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Trendyol",
+            "price": "5002 TL",
+            "discountBadge": "En Ucuz Fiyat",
             "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "7oqu7p9yrw6o6syubugw6n",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "88 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
+            "id": "f0x36sek1443fe2e8uq",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Trendyol",
+            "price": "317 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
