@@ -1,50 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "bgbnqoe8uml96x3nmoa7i",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Trendyol",
-            "price": "162 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "y48uzuz1hs5esbki12xeu",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "402 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "kgqj0vp4fcrenaz5y75c7",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "86 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "qwkl59jdyexf0lojveus9",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Trendyol",
-            "price": "5002 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "f0x36sek1443fe2e8uq",
+            "id": "lnawve6censxppt04xov9",
             "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "Trendyol",
-            "price": "317 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "price": "313 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🍼",
             "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "i51ku828n6bi3k91ju0l",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "119 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "ltak5uttklto59yi5322j",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "Civil",
+            "price": "129 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👃",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "8wz1dbqymki9jhwv1wa3eb",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "Hepsiburada",
+            "price": "176 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "ydd8hwf58bocuf02x4ml",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "e-bebek",
+            "price": "1055 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🌡️",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
