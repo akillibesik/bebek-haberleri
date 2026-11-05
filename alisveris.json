@@ -1,50 +1,42 @@
 {
     "firsatlar": [
         {
-            "id": "lnawve6censxppt04xov9",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Trendyol",
-            "price": "313 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "i51ku828n6bi3k91ju0l",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "119 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "ltak5uttklto59yi5322j",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Civil",
-            "price": "129 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👃",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "8wz1dbqymki9jhwv1wa3eb",
-            "name": "Sleepy Natural Islak Mendil 12'li",
+            "id": "mqbipzmazub65j167bx9j",
+            "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Hepsiburada",
-            "price": "176 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "price": "244 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "ydd8hwf58bocuf02x4ml",
+            "id": "vls7k4rk2hwek9kmwggwl",
+            "name": "Philips Avent Antikolik Biberon 260ml",
+            "store": "Amazon",
+            "price": "299 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "ug14my7yftofrxecejn3gl",
             "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "e-bebek",
-            "price": "1055 TL",
-            "discountBadge": "Sepette %15",
+            "store": "Amazon",
+            "price": "950 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🌡️",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "9aw3flqshjnlor3pdzu94",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Hepsiburada",
+            "price": "424 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
