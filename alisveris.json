@@ -1,49 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "1shv8vbaoyo8ios33fumh5",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "5652 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "u8chfwn458n9v0jwcq9wfa",
-            "name": "Pilsan Pratik Mama Sandalyesi",
+            "id": "5ienhrz0uxv6qz580wnkdg",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "e-bebek",
-            "price": "407 TL",
+            "price": "453 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🪑",
+            "icon": "🤱",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "p7atcm6xq9rjn1xzex7cp",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "e1oczxmh2q6nxs5sio2mhj",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "222 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "8ty9gn7yg75npjiujtulx9",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Trendyol",
-            "price": "218 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "👕",
+            "price": "411 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "emt5ufd8lqug6s2lxw4n4w",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "osehkriy32b53r6hbgr9c",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "Joker",
-            "price": "398 TL",
+            "price": "116 TL",
             "discountBadge": "En Ucuz Fiyat",
-            "icon": "👶",
+            "icon": "🧻",
             "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "c9pqd6urspqrrxy43xvn9",
-            "name": "Sleepy Bio Natural Bebek Bezi",
+            "id": "l5urf337sxm4us2lsyxoly",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
             "store": "Trendyol",
-            "price": "262 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "price": "940 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🌡️",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
