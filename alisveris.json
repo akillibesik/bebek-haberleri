@@ -1,50 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "5ienhrz0uxv6qz580wnkdg",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "e-bebek",
-            "price": "453 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🤱",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "e1oczxmh2q6nxs5sio2mhj",
+            "id": "q2j2z7rw5vcdtv6t4m484r",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "e-bebek",
-            "price": "222 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
-        },
-        {
-            "id": "8ty9gn7yg75npjiujtulx9",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Trendyol",
-            "price": "411 TL",
+            "price": "309 TL",
             "discountBadge": "Flaş İndirim",
             "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "osehkriy32b53r6hbgr9c",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "116 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
+            "id": "vhza7ol159rnkxnamgroz",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "118 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👃",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "l5urf337sxm4us2lsyxoly",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "id": "vfw3b1huifjg4vxh0eau7",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "717 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "hqbwa158lo7ylh4d2n3tbn",
+            "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "Trendyol",
-            "price": "940 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🌡️",
+            "price": "412 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "sl8oljhyg5dbzbmg71u1gw",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "584 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🤱",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
