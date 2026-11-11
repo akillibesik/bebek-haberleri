@@ -1,50 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "p2bt2emeq2btxv2g52k36",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Joker",
-            "price": "523 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "34ch16izn73vgqtt1ibmod",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "676 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "b6l97kimsycf7p4k9cvu8a",
+            "id": "ydyezqvbt8n35r9165ggl",
             "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "e-bebek",
-            "price": "301 TL",
+            "store": "Amazon",
+            "price": "289 TL",
             "discountBadge": "%30 İndirim",
             "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "duusobrlq5dsdktdei1s9",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Trendyol",
+            "price": "387 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "👶",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "umebj79pkmqwetlwm16kw",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Civil",
+            "price": "303 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "ikbqyzbf256py5okymfnh",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "e-bebek",
+            "price": "119 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👃",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "ggizalqalf61ckdmtyn9t",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "260 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👕",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "016ugb2u5qm1oyf0kx9eqrc",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "569 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "hgw2nimp896sq6f8ho6de",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Hepsiburada",
+            "price": "655 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🧸",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
