@@ -1,48 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "ydyezqvbt8n35r9165ggl",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Amazon",
-            "price": "289 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "duusobrlq5dsdktdei1s9",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "387 TL",
+            "id": "9sxpbel84sh1odxr0hflsb",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Hepsiburada",
+            "price": "441 TL",
             "discountBadge": "Sepette %15",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🪑",
+            "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "umebj79pkmqwetlwm16kw",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "303 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "ikbqyzbf256py5okymfnh",
-            "name": "Wee Baby Burun Aspiratörü",
+            "id": "f0yjjqxj1cncf57p5fm6pv",
+            "name": "Lansinoh Manuel Göğüs Pompası",
             "store": "e-bebek",
-            "price": "119 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "👃",
+            "price": "493 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🤱",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "hgw2nimp896sq6f8ho6de",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "id": "acyl94a62ou2rcf0demxws",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "482 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "g55wquqvmaws6ixaeh4dam",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "e-bebek",
+            "price": "267 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
+        },
+        {
+            "id": "x6jnjp1cah5wlygq6qgyr",
+            "name": "Kraft Berlin Bebek Arabası Grey",
             "store": "Hepsiburada",
-            "price": "655 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🧸",
+            "price": "6623 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🛒",
             "buyUrl": "https://www.hepsiburada.com"
         }
     ]
