@@ -1,40 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "tpjho2sri5it3w42hvho",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "p54mks88vgrz9x3caj9mgr",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
             "store": "Trendyol",
-            "price": "199 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
+            "price": "499 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧸",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "9ef9n2x2l9pozylqvr33sm",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "416 TL",
+            "id": "s8fht1nfouwgojs8ryatd",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "645 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "aen5epikd49g2gukrmem",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Trendyol",
+            "price": "1066 TL",
             "discountBadge": "%30 İndirim",
-            "icon": "👶",
-            "buyUrl": "https://www.joker.com"
+            "icon": "🌡️",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "4jcs3e4cxf8ry8sqayfa07",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Joker",
-            "price": "356 TL",
+            "id": "48wrd4kfbuun3zzkds8pn",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Amazon",
+            "price": "340 TL",
             "discountBadge": "En Ucuz Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "d8otjenr9bqk1gbuh2eirk",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Joker",
-            "price": "4318 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.amazon.com"
         }
     ]
 }
