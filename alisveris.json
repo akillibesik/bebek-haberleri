@@ -1,41 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "p54mks88vgrz9x3caj9mgr",
-            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
-            "store": "Trendyol",
-            "price": "499 TL",
+            "id": "p70maa21vkizxcwskflyvn",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "125 TL",
             "discountBadge": "Günün Fırsatı",
-            "icon": "🧸",
-            "buyUrl": "https://www.trendyol.com"
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "s8fht1nfouwgojs8ryatd",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Trendyol",
-            "price": "645 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🤱",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "y7nkdptgooofl6ldvo7zq",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "e-bebek",
+            "price": "388 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🪑",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "aen5epikd49g2gukrmem",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Trendyol",
-            "price": "1066 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🌡️",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "48wrd4kfbuun3zzkds8pn",
+            "id": "bg4cafgjbrm94oorjs877i",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Amazon",
-            "price": "340 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "store": "Hepsiburada",
+            "price": "315 TL",
+            "discountBadge": "Flaş İndirim",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.amazon.com"
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "1a3t6g4e2ka4pq002e4icl",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Trendyol",
+            "price": "441 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
+        },
+        {
+            "id": "nts60e667vwmix3gga28",
+            "name": "Wee Baby Burun Aspiratörü",
+            "store": "Hepsiburada",
+            "price": "99 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👃",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
