@@ -1,51 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "p70maa21vkizxcwskflyvn",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "125 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
+            "id": "c6m9h0tr0hlm4qnyrty2r9",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Amazon",
+            "price": "91 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "y7nkdptgooofl6ldvo7zq",
+            "id": "31es9vl5gra83gvv9n6wbo",
             "name": "Pilsan Pratik Mama Sandalyesi",
             "store": "e-bebek",
-            "price": "388 TL",
-            "discountBadge": "Süper Fiyat",
+            "price": "470 TL",
+            "discountBadge": "Sepette %15",
             "icon": "🪑",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "bg4cafgjbrm94oorjs877i",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Hepsiburada",
-            "price": "315 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "1a3t6g4e2ka4pq002e4icl",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "xo5uj3yfnesin6gtkf9bpq",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Trendyol",
-            "price": "441 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "430 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👶",
             "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "nts60e667vwmix3gga28",
-            "name": "Wee Baby Burun Aspiratörü",
-            "store": "Hepsiburada",
-            "price": "99 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "👃",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "9o1417rtdbeexszhl5gpl",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "124 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
