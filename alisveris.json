@@ -1,40 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "ftks0uk5r4kjfxm928e52",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Civil",
-            "price": "439 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🪑",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "dtbtgt8azppe6igjgaifgb",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "6409 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "uf6h49hu6knk59ibd8tnah",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "e-bebek",
-            "price": "79 TL",
-            "discountBadge": "En Ucuz Fiyat",
+            "id": "2n07i2ga2af44hfnbe40lr",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Trendyol",
+            "price": "251 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "ctuheovciawepm2mefh87",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "id": "wvsn1d2rtjp778r3u87b",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "Civil",
-            "price": "214 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "👕",
+            "price": "114 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🧻",
             "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "h8bmgivpod6sx4c2x3lzz",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Amazon",
+            "price": "1066 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🌡️",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "igsyl95xdss4ce7fll9jvz",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Hepsiburada",
+            "price": "477 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🤱",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "lyiffk4ens93uukycnw16",
+            "name": "Pilsan Pratik Mama Sandalyesi",
+            "store": "Hepsiburada",
+            "price": "441 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🪑",
+            "buyUrl": "https://www.hepsiburada.com"
         }
     ]
 }
