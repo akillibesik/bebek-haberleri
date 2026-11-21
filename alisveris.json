@@ -1,50 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "2n07i2ga2af44hfnbe40lr",
+            "id": "q1cieng3fsf63mcuuekif",
             "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Trendyol",
-            "price": "251 TL",
-            "discountBadge": "Günün Fırsatı",
+            "store": "Amazon",
+            "price": "309 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "wvsn1d2rtjp778r3u87b",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "114 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
-        },
-        {
-            "id": "h8bmgivpod6sx4c2x3lzz",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Amazon",
-            "price": "1066 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🌡️",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "igsyl95xdss4ce7fll9jvz",
-            "name": "Lansinoh Manuel Göğüs Pompası",
+            "id": "vkyin63mjwbmsuyn053pb7",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Civil",
+            "price": "306 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "👕",
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "pty0tuvu87a14wkq88v9r2",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Amazon",
+            "price": "387 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "👶",
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "ytqevlhqjzdx33izv1uwm",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
             "store": "Hepsiburada",
-            "price": "477 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🤱",
+            "price": "433 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "lyiffk4ens93uukycnw16",
-            "name": "Pilsan Pratik Mama Sandalyesi",
-            "store": "Hepsiburada",
-            "price": "441 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🪑",
-            "buyUrl": "https://www.hepsiburada.com"
+            "id": "vxh6tap3aa1ibbcwirygl",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "Civil",
+            "price": "77 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "buyUrl": "https://www.civil.com"
         }
     ]
 }
