@@ -1,51 +1,41 @@
 {
     "firsatlar": [
         {
-            "id": "q1cieng3fsf63mcuuekif",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Amazon",
-            "price": "309 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.amazon.com"
+            "id": "9ci3437ante9i0x8ku87z",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "85 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "vkyin63mjwbmsuyn053pb7",
+            "id": "c2cnd7eb3t61e1iwx6ufdx",
             "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Civil",
-            "price": "306 TL",
+            "store": "Trendyol",
+            "price": "257 TL",
             "discountBadge": "Flaş İndirim",
             "icon": "👕",
-            "buyUrl": "https://www.civil.com"
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "pty0tuvu87a14wkq88v9r2",
+            "id": "x3fqdjsicsfafaq5jm27q9",
             "name": "Carter's Organik Pamuk Tulum",
             "store": "Amazon",
-            "price": "387 TL",
-            "discountBadge": "Günün Fırsatı",
+            "price": "483 TL",
+            "discountBadge": "Sepette %20",
             "icon": "👶",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "ytqevlhqjzdx33izv1uwm",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
-            "store": "Hepsiburada",
-            "price": "433 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "vxh6tap3aa1ibbcwirygl",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
-            "store": "Civil",
-            "price": "77 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "buyUrl": "https://www.civil.com"
+            "id": "9rn6zfxbfstv2n4kobpns",
+            "name": "Sleepy Natural Islak Mendil 12'li",
+            "store": "e-bebek",
+            "price": "150 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🧻",
+            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
+            "buyUrl": "https://www.ebebek.com"
         }
     ]
 }
