@@ -1,41 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "9ci3437ante9i0x8ku87z",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "85 TL",
-            "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "c2cnd7eb3t61e1iwx6ufdx",
-            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
-            "store": "Trendyol",
-            "price": "257 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "👕",
-            "buyUrl": "https://www.trendyol.com"
-        },
-        {
-            "id": "x3fqdjsicsfafaq5jm27q9",
-            "name": "Carter's Organik Pamuk Tulum",
+            "id": "z8ql1wqon9minh6s1s7ej",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
             "store": "Amazon",
-            "price": "483 TL",
+            "price": "72 TL",
             "discountBadge": "Sepette %20",
-            "icon": "👶",
+            "icon": "🍼",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "9rn6zfxbfstv2n4kobpns",
+            "id": "3wheff408x8qhctg7cz8sd",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Hepsiburada",
+            "price": "530 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🤱",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "9kd1q3hdkdez04k2568mgn",
             "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "e-bebek",
-            "price": "150 TL",
-            "discountBadge": "Flaş İndirim",
+            "store": "Civil",
+            "price": "164 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🧻",
             "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.ebebek.com"
+            "buyUrl": "https://www.civil.com"
+        },
+        {
+            "id": "jmnhfigk2eifyq0ecaffr",
+            "name": "Carter's Organik Pamuk Tulum",
+            "store": "Joker",
+            "price": "505 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "👶",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "dyopy1b95mh1ls0ozy81vt",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Joker",
+            "price": "129 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🧻",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
