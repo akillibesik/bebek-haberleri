@@ -1,50 +1,40 @@
 {
     "firsatlar": [
         {
-            "id": "z8ql1wqon9minh6s1s7ej",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "id": "taf9jhr8c0ctbj5v3b6dr9",
+            "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "Amazon",
-            "price": "72 TL",
-            "discountBadge": "Sepette %20",
+            "price": "325 TL",
+            "discountBadge": "%30 İndirim",
             "icon": "🍼",
             "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "3wheff408x8qhctg7cz8sd",
-            "name": "Lansinoh Manuel Göğüs Pompası",
-            "store": "Hepsiburada",
-            "price": "530 TL",
+            "id": "ry31avt63mp2tbmw48ab6s",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Amazon",
+            "price": "1189 TL",
             "discountBadge": "Sepette %15",
-            "icon": "🤱",
-            "buyUrl": "https://www.hepsiburada.com"
+            "icon": "🌡️",
+            "buyUrl": "https://www.amazon.com"
         },
         {
-            "id": "9kd1q3hdkdez04k2568mgn",
-            "name": "Sleepy Natural Islak Mendil 12'li",
-            "store": "Civil",
-            "price": "164 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🧻",
-            "imageUrl": "https://cdn.dsmcdn.com/ty940/product/media/images/20230610/18/370192839_1_org_zoom.jpg",
-            "buyUrl": "https://www.civil.com"
+            "id": "z7kcluf37wq6v0r1archza",
+            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "store": "e-bebek",
+            "price": "75 TL",
+            "discountBadge": "Günün Fırsatı",
+            "icon": "🍼",
+            "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "jmnhfigk2eifyq0ecaffr",
+            "id": "nl6py2n80zte9nlvg606o",
             "name": "Carter's Organik Pamuk Tulum",
-            "store": "Joker",
-            "price": "505 TL",
-            "discountBadge": "Sepette %20",
+            "store": "Trendyol",
+            "price": "363 TL",
+            "discountBadge": "Süper Fiyat",
             "icon": "👶",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "dyopy1b95mh1ls0ozy81vt",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "129 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
