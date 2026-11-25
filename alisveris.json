@@ -1,40 +1,50 @@
 {
     "firsatlar": [
         {
-            "id": "taf9jhr8c0ctbj5v3b6dr9",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "Amazon",
-            "price": "325 TL",
-            "discountBadge": "%30 İndirim",
-            "icon": "🍼",
-            "buyUrl": "https://www.amazon.com"
+            "id": "k1yirg6663g0guo2bj3s9b8",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
+            "store": "Civil",
+            "price": "104 TL",
+            "discountBadge": "En Ucuz Fiyat",
+            "icon": "🧻",
+            "buyUrl": "https://www.civil.com"
         },
         {
-            "id": "ry31avt63mp2tbmw48ab6s",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
-            "store": "Amazon",
-            "price": "1189 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🌡️",
-            "buyUrl": "https://www.amazon.com"
-        },
-        {
-            "id": "z7kcluf37wq6v0r1archza",
-            "name": "Bebedor Silikon Damaklı Emzik 2'li",
+            "id": "asqxmcbcshzs1cqkxmcm",
+            "name": "Wee Baby Burun Aspiratörü",
             "store": "e-bebek",
-            "price": "75 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "🍼",
+            "price": "149 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "👃",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "nl6py2n80zte9nlvg606o",
-            "name": "Carter's Organik Pamuk Tulum",
-            "store": "Trendyol",
-            "price": "363 TL",
-            "discountBadge": "Süper Fiyat",
-            "icon": "👶",
-            "buyUrl": "https://www.trendyol.com"
+            "id": "fos55nihrjqqu6bjpcsn1h",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Hepsiburada",
+            "price": "227 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "9bphb8kriut5xmxcpqmnfg",
+            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "store": "Joker",
+            "price": "1148 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🌡️",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "fqercn3h3hl4in4gywzx9j",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Joker",
+            "price": "6756 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         }
     ]
 }
