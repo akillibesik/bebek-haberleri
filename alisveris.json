@@ -1,49 +1,39 @@
 {
     "firsatlar": [
         {
-            "id": "k1yirg6663g0guo2bj3s9b8",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Civil",
-            "price": "104 TL",
-            "discountBadge": "En Ucuz Fiyat",
-            "icon": "🧻",
-            "buyUrl": "https://www.civil.com"
+            "id": "akzr8jgumx56g36oc6fjf5",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Joker",
+            "price": "4761 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
         },
         {
-            "id": "asqxmcbcshzs1cqkxmcm",
+            "id": "ysnbomuisreqgnagqjv5ym",
+            "name": "Kraft Berlin Bebek Arabası Grey",
+            "store": "Joker",
+            "price": "6047 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "7pz2somoy36t3uqnstt6f",
             "name": "Wee Baby Burun Aspiratörü",
             "store": "e-bebek",
-            "price": "149 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
+            "price": "118 TL",
+            "discountBadge": "Günün Fırsatı",
             "icon": "👃",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "fos55nihrjqqu6bjpcsn1h",
-            "name": "Sleepy Bio Natural Bebek Bezi",
-            "store": "Hepsiburada",
-            "price": "227 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "9bphb8kriut5xmxcpqmnfg",
-            "name": "Chicco Temassız Kızılötesi Ateş Ölçer",
+            "id": "wu33hv8fs7cleyhqd9q4sh",
+            "name": "Uni Baby Aktif Islak Mendil 3'lü",
             "store": "Joker",
-            "price": "1148 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🌡️",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "fqercn3h3hl4in4gywzx9j",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "6756 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
+            "price": "110 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🧻",
             "buyUrl": "https://www.joker.com"
         }
     ]
