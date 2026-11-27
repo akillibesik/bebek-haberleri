@@ -1,40 +1,51 @@
 {
     "firsatlar": [
         {
-            "id": "akzr8jgumx56g36oc6fjf5",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Joker",
-            "price": "4761 TL",
-            "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "ysnbomuisreqgnagqjv5ym",
-            "name": "Kraft Berlin Bebek Arabası Grey",
-            "store": "Joker",
-            "price": "6047 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.joker.com"
-        },
-        {
-            "id": "7pz2somoy36t3uqnstt6f",
-            "name": "Wee Baby Burun Aspiratörü",
+            "id": "0qj9xqpa262cebvu07gwwr",
+            "name": "Philips Avent Antikolik Biberon 260ml",
             "store": "e-bebek",
-            "price": "118 TL",
-            "discountBadge": "Günün Fırsatı",
-            "icon": "👃",
+            "price": "418 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
+            "icon": "🍼",
             "buyUrl": "https://www.ebebek.com"
         },
         {
-            "id": "wu33hv8fs7cleyhqd9q4sh",
+            "id": "cerzybrg8d5tpqbg8id48",
             "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Joker",
-            "price": "110 TL",
+            "store": "Amazon",
+            "price": "97 TL",
             "discountBadge": "Sepette %20",
             "icon": "🧻",
-            "buyUrl": "https://www.joker.com"
+            "buyUrl": "https://www.amazon.com"
+        },
+        {
+            "id": "m2pd8y7x4qjmdtylsmzoyj",
+            "name": "Sleepy Bio Natural Bebek Bezi",
+            "store": "Hepsiburada",
+            "price": "335 TL",
+            "discountBadge": "Sepette %20",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "88jb0ywbm4j0uzb7pjjr9",
+            "name": "Chicco Lite Way Baston Bebek Arabası",
+            "store": "Hepsiburada",
+            "price": "4489 TL",
+            "discountBadge": "Flaş İndirim",
+            "icon": "🛒",
+            "buyUrl": "https://www.hepsiburada.com"
+        },
+        {
+            "id": "f8n2caa7p5vohn42slr0ee",
+            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "store": "Trendyol",
+            "price": "505 TL",
+            "discountBadge": "Sepette %15",
+            "icon": "🍼",
+            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "buyUrl": "https://www.trendyol.com"
         }
     ]
 }
