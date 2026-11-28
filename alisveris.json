@@ -1,50 +1,49 @@
 {
     "firsatlar": [
         {
-            "id": "0qj9xqpa262cebvu07gwwr",
-            "name": "Philips Avent Antikolik Biberon 260ml",
-            "store": "e-bebek",
-            "price": "418 TL",
+            "id": "1hvdehv7hssa9b5d7429p",
+            "name": "Fisher-Price Eğitici Köpekçik (Yumuşak)",
+            "store": "Joker",
+            "price": "668 TL",
+            "discountBadge": "Süper Fiyat",
+            "icon": "🧸",
+            "buyUrl": "https://www.joker.com"
+        },
+        {
+            "id": "d26sd3ejpwn51w7wxbi5tx",
+            "name": "Lansinoh Manuel Göğüs Pompası",
+            "store": "Trendyol",
+            "price": "545 TL",
             "discountBadge": "Kaçırılmayacak Fiyat",
-            "icon": "🍼",
-            "buyUrl": "https://www.ebebek.com"
+            "icon": "🤱",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "cerzybrg8d5tpqbg8id48",
-            "name": "Uni Baby Aktif Islak Mendil 3'lü",
-            "store": "Amazon",
-            "price": "97 TL",
+            "id": "5ne9i07me98evcak2peavn",
+            "name": "Yenidoğan 5'li Pamuklu Zıbın Seti",
+            "store": "Trendyol",
+            "price": "277 TL",
             "discountBadge": "Sepette %20",
-            "icon": "🧻",
-            "buyUrl": "https://www.amazon.com"
+            "icon": "👕",
+            "buyUrl": "https://www.trendyol.com"
         },
         {
-            "id": "m2pd8y7x4qjmdtylsmzoyj",
+            "id": "53n9ohktaxss9ttbbnswi",
             "name": "Sleepy Bio Natural Bebek Bezi",
             "store": "Hepsiburada",
-            "price": "335 TL",
-            "discountBadge": "Sepette %20",
+            "price": "266 TL",
+            "discountBadge": "Kaçırılmayacak Fiyat",
             "icon": "🍼",
             "imageUrl": "https://cdn.dsmcdn.com/ty953/product/media/images/20230620/15/384729104/850192834_1_org_zoom.jpg",
             "buyUrl": "https://www.hepsiburada.com"
         },
         {
-            "id": "88jb0ywbm4j0uzb7pjjr9",
-            "name": "Chicco Lite Way Baston Bebek Arabası",
-            "store": "Hepsiburada",
-            "price": "4489 TL",
-            "discountBadge": "Flaş İndirim",
-            "icon": "🛒",
-            "buyUrl": "https://www.hepsiburada.com"
-        },
-        {
-            "id": "f8n2caa7p5vohn42slr0ee",
-            "name": "Prima Aktif Bebek Bezi Fırsat Paketi",
+            "id": "iuv81lwvu7xcfw1rie85",
+            "name": "Carter's Organik Pamuk Tulum",
             "store": "Trendyol",
-            "price": "505 TL",
-            "discountBadge": "Sepette %15",
-            "icon": "🍼",
-            "imageUrl": "https://cdn.dsmcdn.com/ty900/product/media/images/20230520/12/350192039_1_org_zoom.jpg",
+            "price": "579 TL",
+            "discountBadge": "%30 İndirim",
+            "icon": "👶",
             "buyUrl": "https://www.trendyol.com"
         }
     ]
